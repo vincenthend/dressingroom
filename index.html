@@ -1,0 +1,49 @@
+<html>
+    <head>
+        <title>Virtual Dressing Room</title>
+        <link rel="stylesheet" href="./css/bootstrap.min.css">
+        <script src="./js/bootstrap.min.js"></script>
+        <script src="./js/jquery-3.2.1.slim.min.js"></script>
+        <script src="./js/popper.min.js"></script>
+        <style>
+            .fill{
+                min-height:100vh;
+                height:100%;
+            }
+
+            #viewport{
+                padding: 0;
+            }
+
+            .options{
+                padding: 1rem;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container-fluid">
+            <div class="row fill">
+                <div class="col-3 options">asd</div>
+                <div class="col-9" id="viewport" style="background-color: grey"></div>
+            </div>
+        </div>
+        <script src="js/three.min.js"></script>
+        <script>
+            var viewport = document.getElementById("viewport");
+            var scene = new THREE.Scene();
+            var camera = new THREE.PerspectiveCamera( 75, viewport.clientWidth /viewport.clientHeight, 0.1, 1000 );
+            var renderer = new THREE.WebGLRenderer();
+            renderer.setSize(viewport.clientWidth, viewport.clientHeight);
+
+            viewport.appendChild( renderer.domElement );
+
+            // Insert code here
+            var geometry = new THREE.BoxGeometry( 1, 1, 1 );
+            var material = new THREE.MeshBasicMaterial( { color: 0x00ff00 } );
+            var cube = new THREE.Mesh( geometry, material );
+            scene.add( cube );
+
+            camera.position.z = 5;
+        </script>
+    </body>
+</html>
