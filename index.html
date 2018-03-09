@@ -2,12 +2,9 @@
     <head>
         <title>Virtual Dressing Room</title>
         <link rel="stylesheet" href="./css/bootstrap.min.css">
-        <script src="./js/bootstrap.min.js"></script>
         <script src="./js/jquery-3.2.1.slim.min.js"></script>
         <script src="./js/popper.min.js"></script>
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet"/>
+        <script src="./js/bootstrap.min.js"></script>
         <style>
             .fill{
                 min-height:100vh;
@@ -22,50 +19,36 @@
                 padding: 1rem;
             }
 
-            .input-group{
-                width: 170px !important;
-            }
-
-            .button-select1{
-                width: 136px !important;
-                text-align: justify !important;
-            }
-
-            .button-select2{
-                width: 138px !important;
-                text-align: justify !important;
-            }
-
-            .button-unit{
-                width: 54px !important;
-            }
-
             .fieldname{
                 display: flex;
                 justify-content: flex-end;
                 align-items: center;
             }
+			
+			.row.input-field{
+				padding-bottom:0.2rem;
+			}
+			
         </style>
     </head>
     <body>
         <div class="container-fluid">
             <div class="row fill">
                 <div class="col-3 options">
-                    <div class="row">
+                    <div class="row input-field">
                         <div class="col-3 fieldname">
                             Height:
                         </div>
                         <div class="col-9 input-group">
                             <div class="input-group-btn">
-                                <button class="btn dropdown-toggle button-select2" type="button" data-toggle="dropdown">
+                                <button class="btn dropdown-toggle" type="button" data-toggle="dropdown">
                                     1.04
                                 </button>
                                 <ul class="dropdown-menu">
-                                    <li><a href="#">India</a></li>
-                                    <li><a href="#">Australia</a></li>
-                                    <li><a href="#">Srilanka</a></li>
-                                    <li><a href="#">South Africa</a></li>
-                                    <li><a href="#">New Zealand</a></li>
+                                    <li class="dropdown-item">India</li>
+                                    <li class="dropdown-item">India</li>
+									<li class="dropdown-item">India</li>
+									<li class="dropdown-item">India</li>
                                 </ul>
                             </div>
                             <div class="input-group-btn">
@@ -73,53 +56,52 @@
                                     m
                                 </button>
                                 <ul class="dropdown-menu">
-                                    <li><a href="#">Metric (m)</a></li>
-                                    <li><a href="#">Imperial (ft)</a></li>
+                                    <li class="dropdown-item">Metric (m)</li>
+                                    <li class="dropdown-item">Imperial (ft)</li>
                                 </ul>
                             </div>
                         </div>
                     </div>
-                    <div class="row">
+                    <div class="row input-field">
                         <div class="col-3 fieldname">
                             Shape:
                         </div>
                         <div class="col-9 input-group">
-                            <button class="btn dropdown-toggle button-select1" type="button" data-toggle="dropdown">Country
-                                List
+                            <button class="btn dropdown-toggle" type="button" data-toggle="dropdown">Body Shape
                             </button>
                             <ul class="dropdown-menu">
-                                <li><a href="#">Pear</a></li>
-                                <li><a href="#">Apple</a></li>
-                                <li><a href="#">Hourglass</a></li>
+								<li class="dropdown-item">Pear</li>
+								<li class="dropdown-item">Apple</li>
+								<li class="dropdown-item">Hourglass</li>
                             </ul>
                         </div>
                     </div>
-                    <div class="row">
+                    <div class="row input-field">
                         <div class="col-3 fieldname">
                             Bust:
                         </div>
                         <div class="col-9 input-group">
-                            <button class="btn dropdown-toggle button-select1" type="button" data-toggle="dropdown">Small-Medium
+                            <button class="btn dropdown-toggle" type="button" data-toggle="dropdown">Small-Medium
                             </button>
                             <ul class="dropdown-menu">
-                                <li><a href="#">Small-Medium</a></li>
-                                <li><a href="#">Medium-Large</a></li>
+								<li class="dropdown-item">Small-Medium</li>
+								<li class="dropdown-item">Medium-Large</li>
                             </ul>
                         </div>
                     </div>
-                    <div class="row">
+                    <div class="row input-field">
                         <div class="col-3 fieldname">
                             Weight:
                         </div>
                         <div class="col-9 input-group">
-                            <input type="text" class="form-control button-select2" placeholder="This is Dropdown Menu">
+                            <input type="text" class="form-control">
                             <div class="input-group-btn">
                                 <button class="btn btn-success dropdown-toggle button-unit" type="button" data-toggle="dropdown">
                                     kg
                                 </button>
                                 <ul class="dropdown-menu">
-                                    <li><a href="#">Metric (kg)</a></li>
-                                    <li><a href="#">Imperial (lbs)</a></li>
+                                    <li class="dropdown-item">Metric (kg)</li>
+                                    <li class="dropdown-item">Imperial (lbs)</li>
                                 </ul>
                             </div>
                         </div>
