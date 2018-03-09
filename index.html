@@ -35,30 +35,25 @@
         <div class="container-fluid">
             <div class="row fill">
                 <div class="col-3 options">
+                    <h3>
+                        Virtual Dressing Room
+                    </h3>
                     <div class="row input-field">
                         <div class="col-3 fieldname">
                             Height:
                         </div>
                         <div class="col-9 input-group">
-                            <div class="input-group-btn">
-                                <button class="btn dropdown-toggle" type="button" data-toggle="dropdown">
+                            <div class="input-group-prepend">
+                                <button type="button" class="btn dropdown-toggle" data-toggle="dropdown">
                                     1.04
                                 </button>
-                                <ul class="dropdown-menu">
-                                    <li class="dropdown-item">India</li>
-                                    <li class="dropdown-item">India</li>
-									<li class="dropdown-item">India</li>
-									<li class="dropdown-item">India</li>
-                                </ul>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" href="#">1.04</a>
+                                    <a class="dropdown-item" href="#">1.05</a>
+                                </div>
                             </div>
-                            <div class="input-group-btn">
-                                <button class="btn btn-success dropdown-toggle button-unit" type="button" data-toggle="dropdown">
-                                    m
-                                </button>
-                                <ul class="dropdown-menu">
-                                    <li class="dropdown-item">Metric (m)</li>
-                                    <li class="dropdown-item">Imperial (ft)</li>
-                                </ul>
+                            <div class="input-group-append">
+                                <span class="input-group-text">m</span>
                             </div>
                         </div>
                     </div>
@@ -67,13 +62,15 @@
                             Shape:
                         </div>
                         <div class="col-9 input-group">
-                            <button class="btn dropdown-toggle" type="button" data-toggle="dropdown">Body Shape
-                            </button>
-                            <ul class="dropdown-menu">
-								<li class="dropdown-item">Pear</li>
-								<li class="dropdown-item">Apple</li>
-								<li class="dropdown-item">Hourglass</li>
-                            </ul>
+                            <div>
+                                <button type="button" class="btn dropdown-toggle" data-toggle="dropdown">
+                                    Pear
+                                </button>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" href="#">Apple</a>
+                                    <a class="dropdown-item" href="#">Hourglass</a>
+                                </div>
+                            </div>
                         </div>
                     </div>
                     <div class="row input-field">
@@ -81,12 +78,15 @@
                             Bust:
                         </div>
                         <div class="col-9 input-group">
-                            <button class="btn dropdown-toggle" type="button" data-toggle="dropdown">Small-Medium
-                            </button>
-                            <ul class="dropdown-menu">
-								<li class="dropdown-item">Small-Medium</li>
-								<li class="dropdown-item">Medium-Large</li>
-                            </ul>
+                            <div>
+                                <button type="button" class="btn dropdown-toggle" data-toggle="dropdown">
+                                    Small-Medium
+                                </button>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" href="#">Small-Medium</a>
+                                    <a class="dropdown-item" href="#">Medium-Large</a>
+                                </div>
+                            </div>
                         </div>
                     </div>
                     <div class="row input-field">
@@ -94,17 +94,14 @@
                             Weight:
                         </div>
                         <div class="col-9 input-group">
-                            <input type="text" class="form-control">
-                            <div class="input-group-btn">
-                                <button class="btn btn-success dropdown-toggle button-unit" type="button" data-toggle="dropdown">
-                                    kg
-                                </button>
-                                <ul class="dropdown-menu">
-                                    <li class="dropdown-item">Metric (kg)</li>
-                                    <li class="dropdown-item">Imperial (lbs)</li>
-                                </ul>
+                            <input type="text">
+                            <div class="input-group-append">
+                                <span class="input-group-text">kg</span>
                             </div>
                         </div>
+                    </div>
+                    <div class="row input-field">
+                        <button type="submit" class="btn btn-primary">Submit</button>
                     </div>
                 </div>
                 <div class="col-9" id="viewport" style="background-color: grey">
