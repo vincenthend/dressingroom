@@ -28,7 +28,7 @@ function initViewport(){
     viewport.appendChild( renderer.domElement );
 }
 
-function loadOBJ(path, mtl_filename, obj_filename){
+function loadOBJ(){
 	path = 'model/striped/';
 	mat_file = 'model.mtl';
 	obj_file = 'model.obj';
