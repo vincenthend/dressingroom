@@ -28,7 +28,7 @@ function initViewport(){
     viewport.appendChild( renderer.domElement );
 }
 
-function loadOBJ(){
+function loadOBJ(path, mtl_filename, obj_filename){
 	path = 'model/striped/';
 	mat_file = 'model.mtl';
 	obj_file = 'model.obj';
@@ -79,6 +79,12 @@ function drawObject(){
 		renderer.render(scene, camera);
 	};
 	animate();
+}
+
+function clearObject(){
+    var selectedObject = scene.getObjectByName(object.name);
+    scene.remove( selectedObject );
+    animate();
 }
 
 
