@@ -6,6 +6,9 @@
         <script src="./js/popper.min.js"></script>
         <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
         <style>
+			html{
+				font-size:14px;
+			}
             .fill{
                 min-height:100vh;
                 height:100%;
@@ -45,31 +48,8 @@
                         <div class="col-6 input-group">
                             <input type="number" class="form-control" id="height" min="0" step="0.01" value="1.65">
                             <div class="input-group-append">
-                                <span class="input-group-text">m</span>
+                                <span class="input-group-text">cm</span>
                             </div>
-                        </div>
-                    </div>
-                    <div class="row input-field">
-                        <div class="col-6 fieldname">
-                            <label for="shape">Shape:</label>
-                        </div>
-                        <div class="col-6 input-group">
-                            <select id="shape" class="form-control">
-                                <option value="pear" selected>Pear</option>
-                                <option value="apple">Apple</option>
-                                <option value="hourglass">Hourglass</option>
-                            </select>
-                        </div>
-                    </div>
-                    <div class="row input-field">
-                        <div class="col-6 fieldname">
-                            <label for="bust">Bust:</label>
-                        </div>
-                        <div class="col-6 input-group">
-                            <select id="bust" class="form-control">
-                                <option value="SM" selected>Small-Medium</option>
-                                <option value="ML">Medium-Large</option>
-                            </select>
                         </div>
                     </div>
                     <div class="row input-field">
@@ -90,7 +70,7 @@
                         <div class="col-6 input-group">
                             <input type="number" class="form-control" id="chest" min="0" value="40">
                             <div class="input-group-append">
-                                <span class="input-group-text">m</span>
+                                <span class="input-group-text">cm</span>
                             </div>
                         </div>
                     </div>
@@ -101,7 +81,7 @@
                         <div class="col-6 input-group">
                             <input type="number" class="form-control" id="armc" min="0" value="40">
                             <div class="input-group-append">
-                                <span class="input-group-text">m</span>
+                                <span class="input-group-text">cm</span>
                             </div>
                         </div>
                     </div>
@@ -112,7 +92,7 @@
                         <div class="col-6 input-group">
                             <input type="number" class="form-control" id="hip" min="0" value="40">
                             <div class="input-group-append">
-                                <span class="input-group-text">m</span>
+                                <span class="input-group-text">cm</span>
                             </div>
                         </div>
                     </div>
@@ -123,7 +103,7 @@
                         <div class="col-6 input-group">
                             <input type="number" class="form-control" id="stomach" min="0" value="40">
                             <div class="input-group-append">
-                                <span class="input-group-text">m</span>
+                                <span class="input-group-text">cm</span>
                             </div>
                         </div>
                     </div>
@@ -134,7 +114,7 @@
                         <div class="col-6 input-group">
                             <input type="number" class="form-control" id="arml" min="0" value="40">
                             <div class="input-group-append">
-                                <span class="input-group-text">m</span>
+                                <span class="input-group-text">cm</span>
                             </div>
                         </div>
                     </div>
@@ -145,12 +125,14 @@
                         <div class="col-6 input-group">
                             <input type="number" class="form-control" id="shoulder" min="0" value="40">
                             <div class="input-group-append">
-                                <span class="input-group-text">m</span>
+                                <span class="input-group-text">cm</span>
                             </div>
                         </div>
                     </div>
-                    <div class="row input-field">
+                    <div class="text-right row input-field">
+						<div class="col-12 mt-2">
                         <button type="submit" class="btn btn-primary">Submit</button>
+						</div>
                     </div>
                 </div>
 				<div class="col-9" id="viewport" style="background-color: grey">
@@ -158,6 +140,8 @@
 			</div>
         </div>
         <script src="js/three.min.js"></script>
+		<script src="js/loader/MTLLoader.js"></script>
+		<script src="js/loader/OBJLoader.js"></script>
 		<script src="js/controls/OrbitControls.js"></script>
         <script src="js/viewer.js"></script>
     </body>
