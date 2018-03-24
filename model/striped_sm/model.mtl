@@ -1,0 +1,295 @@
+# MTL Exporter v1.0 by Seungwoo Oh at CLO - Virtual Fashion Inc.
+newmtl Material3667
+Ka 0.000000 0.000000 0.000000
+Kd 0.105592 0.077195 0.019333
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+newmtl Material3662
+Ka 0.000000 0.000000 0.000000
+Kd 0.105592 0.077195 0.019333
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+newmtl Material3672
+Ka 0.000000 0.000000 0.000000
+Kd 0.105592 0.077195 0.019333
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+newmtl Material4217
+Ka 0.313726 0.071357 0.071357
+Kd 1.000000 0.227451 0.227451
+Ks 0.074510 0.074510 0.074510
+Ns 5.000000
+illum 2
+d 1.000000
+map_Ka FCL1-PSC002-00_DIFFUSE_184624.jpg
+map_Kd FCL1-PSC002-00_DIFFUSE_184624.jpg
+newmtl Material4212
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_Ka Denim_dark.jpg
+map_Kd Denim_dark.jpg
+newmtl Material4188
+Ka 0.109804 0.109804 0.109804
+Kd 0.933333 0.933333 0.933333
+Ks 0.000000 0.000000 0.000000
+Ns 1.000000
+illum 2
+d 1.000000
+map_Ka pattern-stripes.jpg
+map_Kd pattern-stripes.jpg
+newmtl Material4196
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_Ka Denim_dark.jpg
+map_Kd Denim_dark.jpg
+newmtl Material4207
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_Ka Denim_dark.jpg
+map_Kd Denim_dark.jpg
+newmtl Material4202
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_Ka Denim_dark.jpg
+map_Kd Denim_dark.jpg
+newmtl Material3830
+Ka 0.400000 0.360000 0.340000
+Kd 0.745098 0.745098 0.745098
+Ks 0.120000 0.120000 0.120000
+Ns 7.000000
+illum 2
+d 1.000000
+map_Kd W_leg_hand_west.jpg
+map_Ka W_leg_hand_west.jpg
+newmtl Material3719
+Ka 0.231000 0.231000 0.231000
+Kd 0.745098 0.745098 0.745098
+Ks 0.000000 0.000000 0.000000
+Ns 100.000000
+illum 2
+d 1.000000
+map_Kd eye_2.jpg
+map_Ka eye_2.jpg
+newmtl Material3853
+Ka 0.231000 0.231000 0.231000
+Kd 0.745098 0.745098 0.745098
+Ks 1.000000 1.000000 1.000000
+Ns 2.000000
+illum 2
+d 1.000000
+map_Kd skin_nudes.jpg
+map_Ks skin_s.jpg
+map_Ka skin_nudes.jpg
+newmtl Material3871
+Ka 0.000000 0.000000 0.000000
+Kd 0.400000 0.400000 0.400000
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_d transparency.png
+newmtl Material3677
+Ka 0.000000 0.000000 0.000000
+Kd 0.105592 0.077195 0.019333
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+newmtl Material3820
+Ka 0.400000 0.360000 0.340000
+Kd 0.745098 0.745098 0.745098
+Ks 0.120000 0.120000 0.120000
+Ns 7.000000
+illum 2
+d 1.000000
+map_Kd W_body_west_lingerie.jpg
+map_Ka W_body_west_lingerie.jpg
+newmtl Material3825
+Ka 0.400000 0.360000 0.340000
+Kd 0.745098 0.745098 0.745098
+Ks 0.120000 0.120000 0.120000
+Ns 7.000000
+illum 2
+d 1.000000
+map_Kd W_face_west.jpg
+map_Ka W_face_west.jpg
+newmtl Material3707
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ns 2.000000
+illum 2
+d 1.000000
+map_d eye_light.png
+newmtl Material3874
+Ka 0.231000 0.231000 0.231000
+Kd 0.745098 0.745098 0.745098
+Ks 1.000000 1.000000 1.000000
+Ns 2.000000
+illum 2
+d 1.000000
+map_Kd skin_beige_new.jpg
+map_Ks skin_s.jpg
+map_Ka skin_beige_new.jpg
+newmtl Material3702
+Ka 0.231000 0.231000 0.231000
+Kd 0.745098 0.745098 0.745098
+Ks 0.000000 0.000000 0.000000
+Ns 100.000000
+illum 2
+d 1.000000
+map_Kd eye_2.jpg
+map_Ka eye_2.jpg
+newmtl Material3693
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_d transparency.png
+newmtl Material3859
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+newmtl Material3879
+Ka 0.231000 0.231000 0.231000
+Kd 0.745098 0.745098 0.745098
+Ks 1.000000 1.000000 1.000000
+Ns 2.000000
+illum 2
+d 1.000000
+map_Kd skin_beige_new.jpg
+map_Ks skin_s.jpg
+map_Ka skin_beige_new.jpg
+newmtl Material3861
+Ka 0.000000 0.000000 0.000000
+Kd 0.626000 0.406900 0.000000
+Ks 0.489204 0.489204 0.489204
+Ns 50.000000
+illum 2
+d 1.000000
+newmtl Material3884
+Ka 0.231000 0.231000 0.231000
+Kd 0.745098 0.745098 0.745098
+Ks 1.000000 1.000000 1.000000
+Ns 2.000000
+illum 2
+d 1.000000
+map_Kd skin_nudes.jpg
+map_Ks skin_s.jpg
+map_Ka skin_nudes.jpg
+newmtl Material3889
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+newmtl Material3863
+Ka 0.231000 0.231000 0.231000
+Kd 0.745098 0.745098 0.745098
+Ks 1.000000 1.000000 1.000000
+Ns 2.000000
+illum 2
+d 1.000000
+map_Kd skin_nudes.jpg
+map_Ks skin_s.jpg
+map_Ka skin_nudes.jpg
+newmtl Material3682
+Ka 0.115114 0.115114 0.115114
+Kd 0.745098 0.745098 0.745098
+Ks 0.201434 0.201434 0.201434
+Ns 5.525180
+illum 2
+d 1.000000
+map_Kd hair01.jpg
+map_Ka hair01.jpg
+newmtl Material3687
+Ka 0.115114 0.115114 0.115114
+Kd 0.745098 0.745098 0.745098
+Ks 0.201434 0.201434 0.201434
+Ns 5.525180
+illum 2
+d 1.000000
+map_Kd hair01.png
+map_d hair01.png
+map_Ka hair01.png
+newmtl Material3716
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ns 2.000000
+illum 2
+d 1.000000
+map_d eye_light.png
+newmtl Material3841
+Ka 0.231000 0.231000 0.231000
+Kd 0.745098 0.745098 0.745098
+Ks 1.000000 1.000000 1.000000
+Ns 2.000000
+illum 2
+d 1.000000
+map_Kd skin_beige_new.jpg
+map_Ks skin_s.jpg
+map_Ka skin_beige_new.jpg
+newmtl Material3891
+Ka 0.000000 0.000000 0.000000
+Kd 0.626000 0.406900 0.000000
+Ks 0.489204 0.489204 0.489204
+Ns 50.000000
+illum 2
+d 1.000000
+newmtl Material3838
+Ka 0.000000 0.000000 0.000000
+Kd 0.400000 0.400000 0.400000
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_d transparency.png
+newmtl Material3848
+Ka 0.231000 0.231000 0.231000
+Kd 0.745098 0.745098 0.745098
+Ks 1.000000 1.000000 1.000000
+Ns 2.000000
+illum 2
+d 1.000000
+map_Kd skin_beige_new.jpg
+map_Ks skin_s.jpg
+map_Ka skin_beige_new.jpg
+newmtl Material3893
+Ka 0.231000 0.231000 0.231000
+Kd 0.745098 0.745098 0.745098
+Ks 1.000000 1.000000 1.000000
+Ns 2.000000
+illum 2
+d 1.000000
+map_Kd skin_nudes.jpg
+map_Ks skin_s.jpg
+map_Ka skin_nudes.jpg
