@@ -34,78 +34,124 @@
     <body>
         <div class="container-fluid">
             <div class="row fill">
-                <div class="col-3 options">
+                <div class="col-4 options">
                     <h3>
                         Virtual Dressing Room
                     </h3>
                     <div class="row input-field">
-                        <div class="col-3 fieldname">
-                            Height:
+                        <div class="col-6 fieldname">
+                            <label for="height">Height:</label>
                         </div>
-                        <div class="col-9 input-group">
-                            <div class="input-group-prepend">
-                                <button type="button" class="btn dropdown-toggle" data-toggle="dropdown">
-                                    1.04
-                                </button>
-                                <div class="dropdown-menu">
-                                    <a class="dropdown-item" href="#">1.04</a>
-                                    <a class="dropdown-item" href="#">1.05</a>
-                                </div>
-                            </div>
+                        <div class="col-6 input-group">
+                            <input type="number" class="form-control" id="height" min="0" step="0.01" value="1.65">
                             <div class="input-group-append">
                                 <span class="input-group-text">m</span>
                             </div>
                         </div>
                     </div>
                     <div class="row input-field">
-                        <div class="col-3 fieldname">
-                            Shape:
+                        <div class="col-6 fieldname">
+                            <label for="shape">Shape:</label>
                         </div>
-                        <div class="col-9 input-group">
-                            <div>
-                                <button type="button" class="btn dropdown-toggle" data-toggle="dropdown">
-                                    Pear
-                                </button>
-                                <div class="dropdown-menu">
-                                    <a class="dropdown-item" href="#">Apple</a>
-                                    <a class="dropdown-item" href="#">Hourglass</a>
-                                </div>
-                            </div>
+                        <div class="col-6 input-group">
+                            <select id="shape" class="form-control">
+                                <option value="pear" selected>Pear</option>
+                                <option value="apple">Apple</option>
+                                <option value="hourglass">Hourglass</option>
+                            </select>
                         </div>
                     </div>
                     <div class="row input-field">
-                        <div class="col-3 fieldname">
-                            Bust:
+                        <div class="col-6 fieldname">
+                            <label for="bust">Bust:</label>
                         </div>
-                        <div class="col-9 input-group">
-                            <div>
-                                <button type="button" class="btn dropdown-toggle" data-toggle="dropdown">
-                                    Small-Medium
-                                </button>
-                                <div class="dropdown-menu">
-                                    <a class="dropdown-item" href="#">Small-Medium</a>
-                                    <a class="dropdown-item" href="#">Medium-Large</a>
-                                </div>
-                            </div>
+                        <div class="col-6 input-group">
+                            <select id="bust" class="form-control">
+                                <option value="SM" selected>Small-Medium</option>
+                                <option value="ML">Medium-Large</option>
+                            </select>
                         </div>
                     </div>
                     <div class="row input-field">
-                        <div class="col-3 fieldname">
-                            Weight:
+                        <div class="col-6 fieldname">
+                            <label for="weight">Weight:</label>
                         </div>
-                        <div class="col-9 input-group">
-                            <input type="text">
+                        <div class="col-6 input-group">
+                            <input type="number" class="form-control" id="weight" min="0" value="40">
                             <div class="input-group-append">
                                 <span class="input-group-text">kg</span>
                             </div>
                         </div>
                     </div>
                     <div class="row input-field">
+                        <div class="col-6 fieldname">
+                            <label for="chest">Chest Size:</label>
+                        </div>
+                        <div class="col-6 input-group">
+                            <input type="number" class="form-control" id="chest" min="0" value="40">
+                            <div class="input-group-append">
+                                <span class="input-group-text">m</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row input-field">
+                        <div class="col-6 fieldname">
+                            <label for="armc">Lingkar Lengan:</label>
+                        </div>
+                        <div class="col-6 input-group">
+                            <input type="number" class="form-control" id="armc" min="0" value="40">
+                            <div class="input-group-append">
+                                <span class="input-group-text">m</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row input-field">
+                        <div class="col-6 fieldname">
+                            <label for="hip">Lingkar Pinggang:</label>
+                        </div>
+                        <div class="col-6 input-group">
+                            <input type="number" class="form-control" id="hip" min="0" value="40">
+                            <div class="input-group-append">
+                                <span class="input-group-text">m</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row input-field">
+                        <div class="col-6 fieldname">
+                            <label for="stomach">Lingkar Perut:</label>
+                        </div>
+                        <div class="col-6 input-group">
+                            <input type="number" class="form-control" id="stomach" min="0" value="40">
+                            <div class="input-group-append">
+                                <span class="input-group-text">m</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row input-field">
+                        <div class="col-6 fieldname">
+                            <label for="arml">Panjang Lengan:</label>
+                        </div>
+                        <div class="col-6 input-group">
+                            <input type="number" class="form-control" id="arml" min="0" value="40">
+                            <div class="input-group-append">
+                                <span class="input-group-text">m</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row input-field">
+                        <div class="col-6 fieldname">
+                            <label for="shoulder">Lebar Bahu:</label>
+                        </div>
+                        <div class="col-6 input-group">
+                            <input type="number" class="form-control" id="shoulder" min="0" value="40">
+                            <div class="input-group-append">
+                                <span class="input-group-text">m</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row input-field">
                         <button type="submit" class="btn btn-primary">Submit</button>
                     </div>
-                </div>
-                <div class="col-9" id="viewport" style="background-color: grey">
-
                 </div>
             </div>
         </div>
