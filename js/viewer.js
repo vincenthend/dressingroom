@@ -28,8 +28,7 @@ function initViewport(){
     viewport.appendChild( renderer.domElement );
 }
 
-function loadOBJ(){
-	path = 'model/striped/';
+function loadOBJ(path){
 	mat_file = 'model.mtl';
 	obj_file = 'model.obj';
 	
@@ -61,13 +60,40 @@ function loadOBJ(){
 	});
 }
 
-function drawObject(){    
+function drawObject(){
+	clearObject();
     //var geometry = new THREE.BoxGeometry( 1, 1, 1 );
     //var material = new THREE.MeshNormalMaterial( { color: 0x00ff00 } );
 	//var cube = new THREE.Mesh( geometry, material );
     //scene.add(cube);
-	
-	loadOBJ();
+	clothsize = document.getElementById("clothsize").value;
+    clothtype = document.getElementById("clothtype").value;
+    chest = document.getElementById("chest").value;
+    armc = document.getElementById("armc").value;
+    arml = document.getElementById("arml").value;
+    bodyl = document.getElementById("bodyl").value;
+	if (clothtype === "stripe"){
+		if(((clothsize === "m") && (chest > 104 || armc > 40 || bodyl > 63)) || ((clothsize="l") && (chest > 116 || armc > 44 || bodyl > 63))){
+			path = "model/striped_sm/";
+		} else {
+            path = "model/striped/";
+		}
+	} else if (clothtype === "white"){
+        if(((clothsize === "m") && (chest > 98 || armc > 38 || bodyl > 60)) || ((clothsize="l") && (chest > 106 || armc > 42 || bodyl > 56))){
+            path = "model/white_sm/";
+        } else {
+            path = "model/white/";
+        }
+	} else {
+        if(((clothsize === "m") && (chest > 98 || armc > 34 || bodyl > 54)) || ((clothsize="l") && (chest > 106 || armc > 40 || bodyl > 55))){
+            path = "model/striped_sm/";
+        } else {
+            path = "model/white/";
+        }
+	}
+
+
+	loadOBJ(path);
 	var controls = new THREE.OrbitControls(camera, renderer.domElement);
 	controls.update();
 
@@ -82,9 +108,10 @@ function drawObject(){
 }
 
 function clearObject(){
-    var selectedObject = scene.getObjectByName(object.name);
-    scene.remove( selectedObject );
-    animate();
+    var selectedObject = scene.getObjectByName('model');
+    if (selectedObject != null){
+        scene.remove( selectedObject );
+	}
 }
 
 
