@@ -43,7 +43,7 @@
                     </h3>
                     <div class="row input-field">
                         <div class="col-6 fieldname">
-                            <label for="height">Height:</label>
+                            <label for="height">Tinggi Badan:</label>
                         </div>
                         <div class="col-6 input-group">
                             <input type="number" class="form-control" id="height" min="0" value="155">
@@ -54,7 +54,7 @@
                     </div>
                     <div class="row input-field">
                         <div class="col-6 fieldname">
-                            <label for="weight">Weight:</label>
+                            <label for="weight">Berat Badan:</label>
                         </div>
                         <div class="col-6 input-group">
                             <input type="number" class="form-control" id="weight" min="0" value="45">
@@ -65,7 +65,7 @@
                     </div>
                     <div class="row input-field">
                         <div class="col-6 fieldname">
-                            <label for="chest">Chest Size:</label>
+                            <label for="chest">Lingkar Dada:</label>
                         </div>
                         <div class="col-6 input-group">
                             <input type="number" class="form-control" id="chest" min="0" value="86">
@@ -142,7 +142,7 @@
                     </div>
                     <div class="text-right row input-field">
                         <div class="col-6 fieldname">
-                            <label for="clothtype">Cloth:</label>
+                            <label for="clothtype">Jenis Baju:</label>
                         </div>
                         <div class="col-6 input-group">
                             <select id="clothtype" class="form-control">
@@ -154,12 +154,12 @@
                     </div>
                     <div class="text-right row input-field">
                         <div class="col-6 fieldname">
-                            <label for="clothsize">Cloth Size:</label>
+                            <label for="clothsize">Ukuran Baju:</label>
                         </div>
                         <div class="col-6 input-group">
                             <select id="clothsize" class="form-control">
-                                <option value="m" selected>M</option>
-                                <option value="l">L</option>
+                                <option value="m">M</option>
+                                <option value="l" selected>L</option>
                             </select>
                         </div>
                     </div>

@@ -72,7 +72,7 @@ function drawObject(){
     armc = document.getElementById("armc").value;
     arml = document.getElementById("arml").value;
     bodyl = document.getElementById("bodyl").value;
-	if (clothtype === "stripe"){
+	if (clothtype === "striped"){
 		if(((clothsize === "m") && (chest > 104 || armc > 40 || bodyl > 63)) || ((clothsize="l") && (chest > 116 || armc > 44 || bodyl > 63))){
 			path = "model/striped_sm/";
 		} else {
@@ -86,9 +86,9 @@ function drawObject(){
         }
 	} else {
         if(((clothsize === "m") && (chest > 98 || armc > 34 || bodyl > 54)) || ((clothsize="l") && (chest > 106 || armc > 40 || bodyl > 55))){
-            path = "model/striped_sm/";
+            path = "model/flamingo_sm/";
         } else {
-            path = "model/white/";
+            path = "model/flamingo/";
         }
 	}
 
