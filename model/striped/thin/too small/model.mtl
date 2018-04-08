@@ -6,8 +6,8 @@ Ks 0.000000 0.000000 0.000000
 Ns 1.000000
 illum 2
 d 1.000000
-map_Ka C:/Users/VincentH/AppData/Local/CLO/Marvelous Designer 7 Enterprise/12356/1231/pattern-stripes.jpg
-map_Kd C:/Users/VincentH/AppData/Local/CLO/Marvelous Designer 7 Enterprise/12356/1231/pattern-stripes.jpg
+map_Ka pattern-stripes.jpg
+map_Kd pattern-stripes.jpg
 newmtl Material1247581
 Ka 0.257132 0.257132 0.257132
 Kd 0.745098 0.745098 0.745098
@@ -15,7 +15,7 @@ Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_fix_hair/avatar_fix_shape/W_face.jpg
+map_Kd W_face.jpg
 newmtl Material1247587
 Ka 0.257132 0.257132 0.257132
 Kd 0.400000 0.400000 0.400000
@@ -23,7 +23,7 @@ Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-map_d E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_fix_hair/avatar_fix_shape/transparency.png
+map_d transparency.png
 newmtl Material1247606
 Ka 0.257132 0.257132 0.257132
 Kd 0.745098 0.745098 0.745098
@@ -31,7 +31,7 @@ Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_fix_hair/avatar_fix_shape/skin_beige_new.jpg
+map_Kd skin_beige_new.jpg
 newmtl Material1247598
 Ka 0.257132 0.257132 0.257132
 Kd 0.800000 0.000000 0.000000
@@ -46,7 +46,7 @@ Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_fix_hair/avatar_fix_shape/W_leg_hand.jpg
+map_Kd W_leg_hand.jpg
 newmtl Material1247600
 Ka 0.257132 0.257132 0.257132
 Kd 0.745098 0.745098 0.745098
@@ -54,7 +54,7 @@ Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_fix_hair/avatar_fix_shape/skin_nudes.jpg
+map_Kd skin_nudes.jpg
 newmtl Material1247599
 Ka 0.257132 0.257132 0.257132
 Kd 0.626000 0.406900 0.000000
@@ -69,7 +69,7 @@ Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-map_d E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_fix_hair/avatar_fix_shape/transparency.png
+map_d transparency.png
 newmtl Material1247595
 Ka 0.257132 0.257132 0.257132
 Kd 0.745098 0.745098 0.745098
@@ -77,7 +77,7 @@ Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_fix_hair/avatar_fix_shape/skin_nudes.jpg
+map_Kd skin_nudes.jpg
 newmtl Material1247604
 Ka 0.257132 0.257132 0.257132
 Kd 0.745098 0.745098 0.745098
@@ -85,7 +85,7 @@ Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_fix_hair/avatar_fix_shape/skin_beige_new.jpg
+map_Kd skin_beige_new.jpg
 newmtl Material1247608
 Ka 0.257132 0.257132 0.257132
 Kd 0.745098 0.745098 0.745098
@@ -93,7 +93,7 @@ Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_fix_hair/avatar_fix_shape/skin_nudes.jpg
+map_Kd skin_nudes.jpg
 newmtl Material1247590
 Ka 0.257132 0.257132 0.257132
 Kd 0.745098 0.745098 0.745098
@@ -101,7 +101,7 @@ Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_fix_hair/avatar_fix_shape/skin_beige_new.jpg
+map_Kd skin_beige_new.jpg
 newmtl Material1247593
 Ka 0.257132 0.257132 0.257132
 Kd 0.745098 0.745098 0.745098
@@ -109,7 +109,7 @@ Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_fix_hair/avatar_fix_shape/skin_beige_new.jpg
+map_Kd skin_beige_new.jpg
 newmtl Material1247573
 Ka 0.257132 0.257132 0.257132
 Kd 0.745098 0.745098 0.745098
@@ -117,7 +117,7 @@ Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_fix_hair/avatar_fix_shape/eye_1.jpg
+map_Kd eye_1.jpg
 newmtl Material1247558
 Ka 0.257132 0.257132 0.257132
 Kd 0.025600 0.000000 0.000000
@@ -132,7 +132,7 @@ Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_fix_hair/avatar_fix_shape/hair02.jpg
+map_Kd hair02.jpg
 newmtl Material1247566
 Ka 0.257132 0.257132 0.257132
 Kd 0.745098 0.745098 0.745098
@@ -140,7 +140,7 @@ Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_fix_hair/avatar_fix_shape/eye_1.jpg
+map_Kd eye_1.jpg
 newmtl Material1247555
 Ka 0.257132 0.257132 0.257132
 Kd 0.025600 0.000000 0.000000
@@ -155,8 +155,8 @@ Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_fix_hair/avatar_fix_shape/eye_light.png
-map_d E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_fix_hair/avatar_fix_shape/eye_light.png
+map_Kd eye_light.png
+map_d eye_light.png
 newmtl Material1247578
 Ka 0.257132 0.257132 0.257132
 Kd 0.745098 0.745098 0.745098
@@ -164,7 +164,7 @@ Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_fix_hair/avatar_fix_shape/W_body_lingerie.jpg
+map_Kd W_body_lingerie.jpg
 newmtl Material1247559
 Ka 0.257132 0.257132 0.257132
 Kd 0.745098 0.745098 0.745098
@@ -172,8 +172,8 @@ Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_fix_hair/avatar_fix_shape/hair03_tr.png
-map_d E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_fix_hair/avatar_fix_shape/hair03_tr.png
+map_Kd hair03_tr.png
+map_d hair03_tr.png
 newmtl Material1247569
 Ka 0.257132 0.257132 0.257132
 Kd 0.745098 0.745098 0.745098
@@ -181,8 +181,8 @@ Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_fix_hair/avatar_fix_shape/eye_light.png
-map_d E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_fix_hair/avatar_fix_shape/eye_light.png
+map_Kd eye_light.png
+map_d eye_light.png
 newmtl Material1247556
 Ka 0.257132 0.257132 0.257132
 Kd 0.025600 0.000000 0.000000
@@ -263,4 +263,4 @@ Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_fix_hair/avatar_fix_shape/skin_nudes.jpg
+map_Kd skin_nudes.jpg
