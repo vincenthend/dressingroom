@@ -68,7 +68,7 @@
                             <label for="chest">Lingkar Dada:</label>
                         </div>
                         <div class="col-6 input-group">
-                            <input type="number" class="form-control" id="chest" min="0" value="86">
+                            <input type="number" class="form-control" id="chest" min="0" value="90">
                             <div class="input-group-append">
                                 <span class="input-group-text">cm</span>
                             </div>

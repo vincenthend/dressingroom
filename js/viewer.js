@@ -73,25 +73,39 @@ function drawObject(){
     arml = document.getElementById("arml").value;
     bodyl = document.getElementById("bodyl").value;
 	if (clothtype === "striped"){
-		if(((clothsize === "m") && (chest > 104 || armc > 40 || bodyl > 63)) || ((clothsize="l") && (chest > 116 || armc > 44 || bodyl > 63))){
-			path = "model/striped_sm/";
+		if(((clothsize === "m") && (chest > 106 || armc > 41 || bodyl > 64)) || ((clothsize="l") && (chest > 118 || armc > 45 || bodyl > 64))){
+			fitpath = "too small";
+		} else if(((clothsize === "m") && (chest > 98 || armc > 37 || bodyl > 60)) || ((clothsize="l") && (chest > 110 || armc > 41 || bodyl > 60))){
+			fitpath = "on size";
 		} else {
-            path = "model/striped/";
+			fitpath = "too big";
 		}
 	} else if (clothtype === "white"){
-        if(((clothsize === "m") && (chest > 98 || armc > 38 || bodyl > 60)) || ((clothsize="l") && (chest > 106 || armc > 42 || bodyl > 56))){
-            path = "model/white_sm/";
-        } else {
-            path = "model/white/";
-        }
+        if(((clothsize === "m") && (chest > 100 || armc > 39 || bodyl > 55)) || ((clothsize="l") && (chest > 108 || armc > 43 || bodyl > 57))){
+            fitpath = "too small";
+        } else if(((clothsize === "m") && (chest > 92 || armc > 35 || bodyl > 51)) || ((clothsize="l") && (chest > 100 || armc > 39 || bodyl > 53))){
+			fitpath = "on size";
+		} else {
+			fitpath = "too big";
+		}
 	} else {
-        if(((clothsize === "m") && (chest > 98 || armc > 34 || bodyl > 54)) || ((clothsize="l") && (chest > 106 || armc > 40 || bodyl > 55))){
-            path = "model/flamingo_sm/";
-        } else {
-            path = "model/flamingo/";
-        }
+        if(((clothsize === "m") && (chest > 100 || armc > 35 || bodyl > 55)) || ((clothsize="l") && (chest > 108 || armc > 41 || bodyl > 56))){
+            fitpath = "too small";
+        } else if(((clothsize === "m") && (chest > 92 || armc > 31 || bodyl > 51)) || ((clothsize="l") && (chest > 100 || armc > 37 || bodyl > 52))){
+			fitpath = "on size";
+		} else {
+			fitpath = "too big";
+		}
+	}
+	if (chest > 110 || armc > 50){
+		bodypath = "fat";
+	} else if (chest > 80 || armc > 55){
+		bodypath = "med";
+	} else {
+		bodypath = "thin";
 	}
 
+	path = "model" + "/" + clothtype + "/" + bodypath + "/" + fitpath;
 
 	loadOBJ(path);
 	var controls = new THREE.OrbitControls(camera, renderer.domElement);
