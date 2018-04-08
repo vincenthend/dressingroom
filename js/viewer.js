@@ -105,7 +105,7 @@ function drawObject(){
 		bodypath = "thin";
 	}
 
-	path = "model" + "/" + clothtype + "/" + bodypath + "/" + fitpath;
+	path = "model" + "/" + clothtype + "/" + bodypath + "/" + fitpath + "/";
 
 	loadOBJ(path);
 	var controls = new THREE.OrbitControls(camera, renderer.domElement);
