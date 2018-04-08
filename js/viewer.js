@@ -54,7 +54,8 @@ function loadOBJ(path){
             object.position.x = 0;
 			object.position.y = 0;
             object.position.z = 1500;
-			object.scale.x = 1;
+			object.scale.x = 1.4;
+			object.scale.z = 1.4;
 			scene.add(object);
             camera.lookAt(object.position);
 			//remove with 
