@@ -48,11 +48,15 @@ function loadOBJ(path){
 		objLoader.setMaterials(materials);
 		objLoader.setPath(path);
 		objLoader.load(obj_file, function (object) {
-			object.position.y = -95;
-			object.name = 'model';
-			object.scale.x = 1.2;
-			camera.lookAt(object.position);
+            object.rotation.x = -0.5;
+            object.rotation.y = -0.24;
+            object.rotation.z = -0.1;
+            object.position.x = 0;
+			object.position.y = 0;
+            object.position.z = 1500;
+			object.scale.x = 1;
 			scene.add(object);
+            camera.lookAt(object.position);
 			//remove with 
 			//var obj = scene.getObjectByName('model');
 			//scene.remove(object)
