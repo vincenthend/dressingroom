@@ -29,7 +29,7 @@ Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-map_Kd W_body_lingerie.jpg
+map_Kd ../../../../../../W_body_lingerie.jpg
 newmtl Material3709
 Ka 0.257132 0.257132 0.257132
 Kd 0.400000 0.400000 0.400000
@@ -61,7 +61,7 @@ Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-map_Kd W_face.jpg
+map_Kd ../../../W_face.jpg
 newmtl Material3720
 Ka 0.257132 0.257132 0.257132
 Kd 0.745098 0.745098 0.745098
@@ -77,7 +77,7 @@ Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-map_Kd W_leg_hand.jpg
+map_Kd ../../../W_leg_hand.jpg
 newmtl Material3724
 Ka 0.257132 0.257132 0.257132
 Kd 0.800000 0.000000 0.000000
