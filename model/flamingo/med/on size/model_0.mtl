@@ -1,282 +1,283 @@
 # MTL Exporter v1.0 by Seungwoo Oh at CLO - Virtual Fashion Inc.
-newmtl Material4206
+newmtl Material447768
+Ka 0.257132 0.257132 0.257132
+Kd 0.025600 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+newmtl Material447762
+Ka 0.257132 0.257132 0.257132
+Kd 0.745098 0.745098 0.745098
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar_new/avatar_med/W_haircap_26979.png
+map_d E:/ITB Stuff/Project/Dressingroom model/avatar_new/avatar_med/W_haircap_26979.png
+newmtl Material447750
+Ka 0.257132 0.257132 0.257132
+Kd 0.745098 0.745098 0.745098
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar_new/avatar_med/skin_beige_new.jpg
+newmtl Material447758
+Ka 0.257132 0.257132 0.257132
+Kd 0.745098 0.745098 0.745098
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar_new/avatar_med/W_Hair_26984.png
+map_d E:/ITB Stuff/Project/Dressingroom model/avatar_new/avatar_med/W_Hair_26984.png
+newmtl Material447754
+Ka 0.257132 0.257132 0.257132
+Kd 0.800000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+newmtl Material447756
+Ka 0.257132 0.257132 0.257132
+Kd 0.745098 0.745098 0.745098
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar_new/avatar_med/skin_nudes.jpg
+newmtl Material447755
+Ka 0.257132 0.257132 0.257132
+Kd 0.626000 0.406900 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+newmtl Material447766
+Ka 0.257132 0.257132 0.257132
+Kd 0.025600 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+newmtl Material447767
+Ka 0.257132 0.257132 0.257132
+Kd 0.025600 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+newmtl Material447748
+Ka 0.257132 0.257132 0.257132
+Kd 0.745098 0.745098 0.745098
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar_new/avatar_med/skin_beige_new.jpg
+newmtl Material447752
+Ka 0.257132 0.257132 0.257132
+Kd 0.745098 0.745098 0.745098
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar_new/avatar_med/skin_nudes.jpg
+newmtl Material437189
 Ka 0.257132 0.257132 0.257132
 Kd 0.819608 0.819608 0.819608
 Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-map_Ka C:/Users/VincentH/AppData/Local/CLO/Marvelous Designer 7 Enterprise/12356/1063/Denim_dark.jpg
-map_Kd C:/Users/VincentH/AppData/Local/CLO/Marvelous Designer 7 Enterprise/12356/1063/Denim_dark.jpg
-newmtl Material4212
+map_Ka C:/Users/VincentH/AppData/Local/CLO/Marvelous Designer 7 Enterprise/7304/1216/2_16603864.png
+map_Kd C:/Users/VincentH/AppData/Local/CLO/Marvelous Designer 7 Enterprise/7304/1216/2_16603864.png
+newmtl Material437152
 Ka 0.257132 0.257132 0.257132
 Kd 0.819608 0.819608 0.819608
 Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-map_Ka C:/Users/VincentH/AppData/Local/CLO/Marvelous Designer 7 Enterprise/12356/1063/Denim_dark.jpg
-map_Kd C:/Users/VincentH/AppData/Local/CLO/Marvelous Designer 7 Enterprise/12356/1063/Denim_dark.jpg
-newmtl Material4200
+map_Ka Denim_dark_437138.jpg
+map_Kd Denim_dark_437138.jpg
+newmtl Material437130
 Ka 0.109804 0.109804 0.109804
 Kd 0.929412 0.929412 0.929412
 Ks 0.000000 0.000000 0.000000
 Ns 1.000000
 illum 2
 d 1.000000
-map_Ka C:/Users/VincentH/AppData/Local/CLO/Marvelous Designer 7 Enterprise/12356/1063/flamingo.jpg
-map_Kd C:/Users/VincentH/AppData/Local/CLO/Marvelous Designer 7 Enterprise/12356/1063/flamingo.jpg
-newmtl Material751050
+map_Ka flamingo_437132.jpg
+map_Kd flamingo_437132.jpg
+newmtl Material437147
 Ka 0.257132 0.257132 0.257132
-Kd 0.025600 0.000000 0.000000
+Kd 0.819608 0.819608 0.819608
 Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-newmtl Material751053
+map_Ka Denim_dark_437138.jpg
+map_Kd Denim_dark_437138.jpg
+newmtl Material437142
 Ka 0.257132 0.257132 0.257132
-Kd 0.745098 0.745098 0.745098
+Kd 0.819608 0.819608 0.819608
 Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_medium/hair03_tr.png
-map_d E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_medium/hair03_tr.png
-newmtl Material751049
+map_Ka Denim_dark_437138.jpg
+map_Kd Denim_dark_437138.jpg
+newmtl Material437136
 Ka 0.257132 0.257132 0.257132
-Kd 0.025600 0.000000 0.000000
+Kd 0.819608 0.819608 0.819608
 Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-newmtl Material751060
-Ka 0.257132 0.257132 0.257132
-Kd 0.745098 0.745098 0.745098
-Ks 0.000000 0.000000 0.000000
-Ns 5.000000
-illum 2
-d 1.000000
-map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_medium/eye_1.jpg
-newmtl Material751075
-Ka 0.257132 0.257132 0.257132
-Kd 0.745098 0.745098 0.745098
-Ks 0.000000 0.000000 0.000000
-Ns 5.000000
-illum 2
-d 1.000000
-map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_medium/W_face.jpg
-newmtl Material751081
-Ka 0.257132 0.257132 0.257132
-Kd 0.400000 0.400000 0.400000
-Ks 0.000000 0.000000 0.000000
-Ns 5.000000
-illum 2
-d 1.000000
-map_d E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_medium/transparency.png
-newmtl Material751063
-Ka 0.257132 0.257132 0.257132
-Kd 0.745098 0.745098 0.745098
-Ks 0.000000 0.000000 0.000000
-Ns 5.000000
-illum 2
-d 1.000000
-map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_medium/eye_light.png
-map_d E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_medium/eye_light.png
-newmtl Material751072
-Ka 0.257132 0.257132 0.257132
-Kd 0.745098 0.745098 0.745098
-Ks 0.000000 0.000000 0.000000
-Ns 5.000000
-illum 2
-d 1.000000
-map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_medium/W_body_lingerie.jpg
-newmtl Material751078
-Ka 0.257132 0.257132 0.257132
-Kd 0.745098 0.745098 0.745098
-Ks 0.000000 0.000000 0.000000
-Ns 5.000000
-illum 2
-d 1.000000
-map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_medium/W_leg_hand.jpg
-newmtl Material751051
-Ka 0.257132 0.257132 0.257132
-Kd 0.025600 0.000000 0.000000
-Ks 0.000000 0.000000 0.000000
-Ns 5.000000
-illum 2
-d 1.000000
-newmtl Material751052
-Ka 0.257132 0.257132 0.257132
-Kd 0.025600 0.000000 0.000000
-Ks 0.000000 0.000000 0.000000
-Ns 5.000000
-illum 2
-d 1.000000
-newmtl Material751057
-Ka 0.257132 0.257132 0.257132
-Kd 0.745098 0.745098 0.745098
-Ks 0.000000 0.000000 0.000000
-Ns 5.000000
-illum 2
-d 1.000000
-map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_medium/hair02.jpg
-newmtl Material751067
-Ka 0.257132 0.257132 0.257132
-Kd 0.745098 0.745098 0.745098
-Ks 0.000000 0.000000 0.000000
-Ns 5.000000
-illum 2
-d 1.000000
-map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_medium/eye_1.jpg
-newmtl Material751069
-Ka 0.257132 0.257132 0.257132
-Kd 0.745098 0.745098 0.745098
-Ks 0.000000 0.000000 0.000000
-Ns 5.000000
-illum 2
-d 1.000000
-map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_medium/eye_light.png
-map_d E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_medium/eye_light.png
-newmtl Material4227
+map_Ka Denim_dark_437138.jpg
+map_Kd Denim_dark_437138.jpg
+newmtl Material437157
 Ka 0.228835 0.031408 0.031408
 Kd 0.729412 0.100114 0.100114
 Ks 0.074510 0.074510 0.074510
 Ns 5.000000
 illum 2
 d 1.000000
-map_Ka C:/Users/VincentH/AppData/Local/CLO/Marvelous Designer 7 Enterprise/12356/1063/FCL1-PSC002-00_DIFFUSE_184624.jpg
-map_Kd C:/Users/VincentH/AppData/Local/CLO/Marvelous Designer 7 Enterprise/12356/1063/FCL1-PSC002-00_DIFFUSE_184624.jpg
-newmtl Material4217
-Ka 0.257132 0.257132 0.257132
-Kd 0.819608 0.819608 0.819608
-Ks 0.000000 0.000000 0.000000
-Ns 5.000000
-illum 2
-d 1.000000
-map_Ka C:/Users/VincentH/AppData/Local/CLO/Marvelous Designer 7 Enterprise/12356/1063/Denim_dark.jpg
-map_Kd C:/Users/VincentH/AppData/Local/CLO/Marvelous Designer 7 Enterprise/12356/1063/Denim_dark.jpg
-newmtl Material4259
-Ka 0.257132 0.257132 0.257132
-Kd 0.819608 0.819608 0.819608
-Ks 0.000000 0.000000 0.000000
-Ns 5.000000
-illum 2
-d 1.000000
-map_Ka C:/Users/VincentH/AppData/Local/CLO/Marvelous Designer 7 Enterprise/12356/1067/2_16603864.png
-map_Kd C:/Users/VincentH/AppData/Local/CLO/Marvelous Designer 7 Enterprise/12356/1067/2_16603864.png
-newmtl Material4222
-Ka 0.257132 0.257132 0.257132
-Kd 0.819608 0.819608 0.819608
-Ks 0.000000 0.000000 0.000000
-Ns 5.000000
-illum 2
-d 1.000000
-map_Ka C:/Users/VincentH/AppData/Local/CLO/Marvelous Designer 7 Enterprise/12356/1063/Denim_dark.jpg
-map_Kd C:/Users/VincentH/AppData/Local/CLO/Marvelous Designer 7 Enterprise/12356/1063/Denim_dark.jpg
-newmtl Material4237
+map_Ka FCL1-PSC002-00_DIFFUSE_184624_437159.jpg
+map_Kd FCL1-PSC002-00_DIFFUSE_184624_437159.jpg
+newmtl Material437167
 Ka 0.000000 0.000000 0.000000
 Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 Ns 10.000000
 illum 2
 d 1.000000
-newmtl Material751106
+newmtl Material447744
 Ka 0.257132 0.257132 0.257132
 Kd 0.745098 0.745098 0.745098
 Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_medium/skin_nudes.jpg
-newmtl Material751087
+map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar_new/avatar_med/skin_nudes.jpg
+newmtl Material447734
 Ka 0.257132 0.257132 0.257132
 Kd 0.745098 0.745098 0.745098
 Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_medium/skin_beige_new.jpg
-newmtl Material751094
+map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar_new/avatar_med/skin_beige_new.jpg
+newmtl Material447739
 Ka 0.257132 0.257132 0.257132
 Kd 0.745098 0.745098 0.745098
 Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_medium/skin_nudes.jpg
-newmtl Material751096
+map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar_new/avatar_med/skin_nudes.jpg
+newmtl Material447742
+Ka 0.257132 0.257132 0.257132
+Kd 0.800000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+newmtl Material447731
 Ka 0.257132 0.257132 0.257132
 Kd 0.400000 0.400000 0.400000
 Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-map_d E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_medium/transparency.png
-newmtl Material751098
-Ka 0.257132 0.257132 0.257132
-Kd 0.745098 0.745098 0.745098
-Ks 0.000000 0.000000 0.000000
-Ns 5.000000
-illum 2
-d 1.000000
-map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_medium/skin_beige_new.jpg
-newmtl Material751104
-Ka 0.257132 0.257132 0.257132
-Kd 0.800000 0.000000 0.000000
-Ks 0.000000 0.000000 0.000000
-Ns 5.000000
-illum 2
-d 1.000000
-newmtl Material751092
-Ka 0.257132 0.257132 0.257132
-Kd 0.800000 0.000000 0.000000
-Ks 0.000000 0.000000 0.000000
-Ns 5.000000
-illum 2
-d 1.000000
-newmtl Material751089
-Ka 0.257132 0.257132 0.257132
-Kd 0.745098 0.745098 0.745098
-Ks 0.000000 0.000000 0.000000
-Ns 5.000000
-illum 2
-d 1.000000
-map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_medium/skin_nudes.jpg
-newmtl Material751093
+map_d E:/ITB Stuff/Project/Dressingroom model/avatar_new/avatar_med/transparency.png
+newmtl Material447743
 Ka 0.257132 0.257132 0.257132
 Kd 0.626000 0.406900 0.000000
 Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-newmtl Material751100
+newmtl Material447737
 Ka 0.257132 0.257132 0.257132
 Kd 0.745098 0.745098 0.745098
 Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_medium/skin_beige_new.jpg
-newmtl Material751102
+map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar_new/avatar_med/skin_beige_new.jpg
+newmtl Material447746
+Ka 0.257132 0.257132 0.257132
+Kd 0.400000 0.400000 0.400000
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_d E:/ITB Stuff/Project/Dressingroom model/avatar_new/avatar_med/transparency.png
+newmtl Material447769
+Ka 0.257132 0.257132 0.257132
+Kd 0.025600 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+newmtl Material447770
 Ka 0.257132 0.257132 0.257132
 Kd 0.745098 0.745098 0.745098
 Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_medium/skin_nudes.jpg
-newmtl Material751105
-Ka 0.257132 0.257132 0.257132
-Kd 0.626000 0.406900 0.000000
-Ks 0.000000 0.000000 0.000000
-Ns 5.000000
-illum 2
-d 1.000000
-newmtl Material751084
+map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar_new/avatar_med/eye_1.jpg
+newmtl Material447773
 Ka 0.257132 0.257132 0.257132
 Kd 0.745098 0.745098 0.745098
 Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar/avatar_medium/skin_beige_new.jpg
+map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar_new/avatar_med/eye_light.png
+map_d E:/ITB Stuff/Project/Dressingroom model/avatar_new/avatar_med/eye_light.png
+newmtl Material447777
+Ka 0.257132 0.257132 0.257132
+Kd 0.745098 0.745098 0.745098
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar_new/avatar_med/eye_1.jpg
+newmtl Material447785
+Ka 0.257132 0.257132 0.257132
+Kd 0.745098 0.745098 0.745098
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar_new/avatar_med/W_face.jpg
+newmtl Material447788
+Ka 0.257132 0.257132 0.257132
+Kd 0.745098 0.745098 0.745098
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar_new/avatar_med/W_leg_hand.jpg
+newmtl Material447782
+Ka 0.257132 0.257132 0.257132
+Kd 0.745098 0.745098 0.745098
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar_new/avatar_med/W_body_lingerie.jpg
+newmtl Material447779
+Ka 0.257132 0.257132 0.257132
+Kd 0.745098 0.745098 0.745098
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_Kd E:/ITB Stuff/Project/Dressingroom model/avatar_new/avatar_med/eye_light.png
+map_d E:/ITB Stuff/Project/Dressingroom model/avatar_new/avatar_med/eye_light.png
