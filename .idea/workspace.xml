@@ -2,8 +2,370 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4cfc8f6-8308-4d96-8faa-ac3f4d4f870a" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/model/FCL1-PSC002-00_DIFFUSE_184624_173560.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/model/W_Hair_26984.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/model/W_haircap_26979.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/model/flamingo/fat/on size/FCL1-PSC002-00_DIFFUSE_184624_173560.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/model/flamingo/fat/too big/flamingo_173533.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/model/flamingo/fat/too small/FCL1-PSC002-00_DIFFUSE_184624_173560.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/model/flamingo/fat/too small/flamingo_173533.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/model/flamingo/med/on size/FCL1-PSC002-00_DIFFUSE_184624_437159.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/model/flamingo/med/on size/flamingo_437132.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/model/flamingo/med/too big/FCL1-PSC002-00_DIFFUSE_184624_437159.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/model/flamingo/med/too big/flamingo_437132.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/model/flamingo/med/too small/FCL1-PSC002-00_DIFFUSE_184624_437159.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/model/flamingo/med/too small/flamingo_437132.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/model/flamingo_173533.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/model/run.bat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/model/striped/fat/on size/FCL1-PSC002-00_DIFFUSE_184624_1142698_831834.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/model/striped/fat/on size/pattern-stripes_831805.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/model/striped/fat/too big/FCL1-PSC002-00_DIFFUSE_184624_1142698_831834.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/model/striped/fat/too big/pattern-stripes_831805.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/model/striped/fat/too small/FCL1-PSC002-00_DIFFUSE_184624_1142698_831834.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/model/striped/fat/too small/pattern-stripes_831805.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/model/striped/med/on size/FCL1-PSC002-00_DIFFUSE_184624_1142698_1109989.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/model/striped/med/on size/pattern-stripes_1109960.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/model/striped/med/too big/FCL1-PSC002-00_DIFFUSE_184624_1142698_1109989.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/model/striped/med/too big/pattern-stripes_1109960.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/model/white/fat/too small/model.zip" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/model/white/med/on size/FCL1-PSC002-00_NORMAL_184626_3154027.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/model/white/med/on size/FCL1-PSC002-00_SPECULAR_184628_3154025.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/model/white/med/on size/Jersey_white_121294_3154019.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/model/white/med/too big/FCL1-PSC002-00_NORMAL_184626_3154027.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/model/white/med/too big/FCL1-PSC002-00_SPECULAR_184628_3154025.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/model/white/med/too big/Jersey_white_121294_3154019.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/model/white/med/too small/FCL1-PSC002-00_NORMAL_184626_2152950.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/model/white/med/too small/FCL1-PSC002-00_SPECULAR_184628_2152948.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/model/white/med/too small/Jersey_white_121294_2152942.jpg" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/js/viewer.js" afterPath="$PROJECT_DIR$/js/viewer.js" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/fat/on size/2_16603864.png" afterPath="$PROJECT_DIR$/model/2_16603864.png" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/fat/on size/Denim_dark.jpg" afterPath="$PROJECT_DIR$/model/Denim_dark.jpg" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/fat/on size/W_body_lingerie.jpg" afterPath="$PROJECT_DIR$/model/W_body_lingerie.jpg" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/fat/on size/W_face.jpg" afterPath="$PROJECT_DIR$/model/W_face.jpg" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/fat/on size/W_leg_hand.jpg" afterPath="$PROJECT_DIR$/model/W_leg_hand.jpg" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/fat/on size/eye_1.jpg" afterPath="$PROJECT_DIR$/model/eye_1.jpg" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/fat/on size/eye_light.png" afterPath="$PROJECT_DIR$/model/eye_light.png" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/fat/on size/flamingo.jpg" afterPath="$PROJECT_DIR$/model/flamingo.jpg" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/fat/on size/model.mtl" afterPath="$PROJECT_DIR$/model/flamingo/fat/on size/model.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/fat/on size/model.obj" afterPath="$PROJECT_DIR$/model/flamingo/fat/on size/model.obj" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/fat/on size/model_0.mtl" afterPath="$PROJECT_DIR$/model/flamingo/fat/on size/model_0.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/fat/on size/skin_beige_new.jpg" afterPath="$PROJECT_DIR$/model/skin_beige_new.jpg" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/fat/on size/skin_nudes.jpg" afterPath="$PROJECT_DIR$/model/skin_nudes.jpg" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/fat/on size/transparency.png" afterPath="$PROJECT_DIR$/model/transparency.png" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/fat/too big/2_16603864.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/fat/too big/Denim_dark.jpg" afterPath="$PROJECT_DIR$/model/flamingo/fat/on size/Denim_dark_173539.jpg" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/fat/too big/FCL1-PSC002-00_DIFFUSE_184624.jpg" afterPath="$PROJECT_DIR$/model/FCL1-PSC002-00_DIFFUSE_184624.jpg" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/fat/too big/W_body_lingerie.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/fat/too big/W_face.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/fat/too big/W_leg_hand.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/fat/too big/eye_1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/fat/too big/eye_light.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/fat/too big/model.mtl" afterPath="$PROJECT_DIR$/model/flamingo/fat/too big/model.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/fat/too big/model.obj" afterPath="$PROJECT_DIR$/model/flamingo/fat/too big/model.obj" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/fat/too big/model_0.mtl" afterPath="$PROJECT_DIR$/model/flamingo/fat/too big/model_0.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/fat/too big/skin_beige_new.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/fat/too big/skin_nudes.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/fat/too big/transparency.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/fat/too small/2_16603864.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/fat/too small/Denim_dark.jpg" afterPath="$PROJECT_DIR$/model/flamingo/fat/too big/Denim_dark_173539.jpg" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/fat/too small/W_body_lingerie.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/fat/too small/W_face.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/fat/too small/W_leg_hand.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/fat/too small/eye_1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/fat/too small/eye_light.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/fat/too small/model.mtl" afterPath="$PROJECT_DIR$/model/flamingo/fat/too small/model.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/fat/too small/model.obj" afterPath="$PROJECT_DIR$/model/flamingo/fat/too small/model.obj" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/fat/too small/model_0.mtl" afterPath="$PROJECT_DIR$/model/flamingo/fat/too small/model_0.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/fat/too small/skin_beige_new.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/fat/too small/skin_nudes.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/fat/too small/transparency.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/med/on size/2_16603864.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/med/on size/Denim_dark.jpg" afterPath="$PROJECT_DIR$/model/flamingo/fat/too small/Denim_dark_173539.jpg" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/med/on size/W_body_lingerie.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/med/on size/W_face.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/med/on size/W_leg_hand.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/med/on size/eye_1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/med/on size/eye_light.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/med/on size/model.mtl" afterPath="$PROJECT_DIR$/model/flamingo/med/on size/model.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/med/on size/model.obj" afterPath="$PROJECT_DIR$/model/flamingo/med/on size/model.obj" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/med/on size/model_0.mtl" afterPath="$PROJECT_DIR$/model/flamingo/med/on size/model_0.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/med/on size/skin_beige_new.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/med/on size/skin_nudes.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/med/on size/transparency.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/med/too big/2_16603864.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/med/too big/Denim_dark.jpg" afterPath="$PROJECT_DIR$/model/flamingo/med/on size/Denim_dark_437138.jpg" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/med/too big/W_body_lingerie.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/med/too big/W_face.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/med/too big/W_leg_hand.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/med/too big/eye_1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/med/too big/eye_light.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/med/too big/model.mtl" afterPath="$PROJECT_DIR$/model/flamingo/med/too big/model.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/med/too big/model.obj" afterPath="$PROJECT_DIR$/model/flamingo/med/too big/model.obj" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/med/too big/model_0.mtl" afterPath="$PROJECT_DIR$/model/flamingo/med/too big/model_0.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/med/too big/skin_beige_new.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/med/too big/skin_nudes.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/med/too big/transparency.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/med/too small/2_16603864.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/med/too small/Denim_dark.jpg" afterPath="$PROJECT_DIR$/model/flamingo/med/too big/Denim_dark_437138.jpg" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/med/too small/W_body_lingerie.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/med/too small/W_face.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/med/too small/W_leg_hand.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/med/too small/eye_1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/med/too small/eye_light.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/med/too small/model.mtl" afterPath="$PROJECT_DIR$/model/flamingo/med/too small/model.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/med/too small/model.obj" afterPath="$PROJECT_DIR$/model/flamingo/med/too small/model.obj" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/med/too small/model_0.mtl" afterPath="$PROJECT_DIR$/model/flamingo/med/too small/model_0.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/med/too small/skin_beige_new.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/med/too small/skin_nudes.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/med/too small/transparency.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/thin/on size/2_16603864.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/thin/on size/Denim_dark.jpg" afterPath="$PROJECT_DIR$/model/flamingo/med/too small/Denim_dark_437138.jpg" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/thin/on size/Denim_dark_1787085.jpg" afterPath="$PROJECT_DIR$/model/Denim_dark_1787085.jpg" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/thin/on size/W_body_lingerie.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/thin/on size/W_face.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/thin/on size/W_leg_hand.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/thin/on size/eye_1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/thin/on size/eye_light.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/thin/on size/model.mtl" afterPath="$PROJECT_DIR$/model/flamingo/thin/on size/model.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/thin/on size/model.obj" afterPath="$PROJECT_DIR$/model/flamingo/thin/on size/model.obj" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/thin/on size/model_0.mtl" afterPath="$PROJECT_DIR$/model/flamingo/thin/on size/model_0.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/thin/on size/skin_beige_new.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/thin/on size/skin_nudes.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/thin/on size/transparency.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/thin/too big/2_16603864.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/thin/too big/Denim_dark.jpg" afterPath="$PROJECT_DIR$/model/striped/fat/on size/Denim_dark_1142677_831813.jpg" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/thin/too big/W_body_lingerie.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/thin/too big/W_face.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/thin/too big/W_leg_hand.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/thin/too big/eye_1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/thin/too big/eye_light.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/thin/too big/model.mtl" afterPath="$PROJECT_DIR$/model/flamingo/thin/too big/model.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/thin/too big/model.obj" afterPath="$PROJECT_DIR$/model/flamingo/thin/too big/model.obj" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/thin/too big/model_0.mtl" afterPath="$PROJECT_DIR$/model/flamingo/thin/too big/model_0.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/thin/too big/skin_beige_new.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/thin/too big/skin_nudes.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/thin/too big/transparency.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/thin/too small/2_16603864.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/thin/too small/Denim_dark.jpg" afterPath="$PROJECT_DIR$/model/striped/fat/too big/Denim_dark_1142677_831813.jpg" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/thin/too small/W_body_lingerie.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/thin/too small/W_face.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/thin/too small/W_leg_hand.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/thin/too small/eye_1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/thin/too small/eye_light.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/thin/too small/model.mtl" afterPath="$PROJECT_DIR$/model/flamingo/thin/too small/model.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/thin/too small/model.obj" afterPath="$PROJECT_DIR$/model/flamingo/thin/too small/model.obj" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/thin/too small/model_0.mtl" afterPath="$PROJECT_DIR$/model/flamingo/thin/too small/model_0.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/thin/too small/skin_beige_new.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/thin/too small/skin_nudes.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/flamingo/thin/too small/transparency.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/fat/on size/W_body_lingerie.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/fat/on size/W_face.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/fat/on size/W_leg_hand.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/fat/on size/eye_1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/fat/on size/eye_light.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/fat/on size/model.mtl" afterPath="$PROJECT_DIR$/model/striped/fat/on size/model.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/striped/fat/on size/model.obj" afterPath="$PROJECT_DIR$/model/striped/fat/on size/model.obj" />
+      <change beforePath="$PROJECT_DIR$/model/striped/fat/on size/model_0.mtl" afterPath="$PROJECT_DIR$/model/striped/fat/on size/model_0.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/striped/fat/on size/skin_beige_new.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/fat/on size/skin_nudes.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/fat/on size/transparency.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/fat/too big/W_body_lingerie.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/fat/too big/W_face.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/fat/too big/W_leg_hand.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/fat/too big/eye_1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/fat/too big/eye_light.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/fat/too big/model.mtl" afterPath="$PROJECT_DIR$/model/striped/fat/too big/model.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/striped/fat/too big/model.obj" afterPath="$PROJECT_DIR$/model/striped/fat/too big/model.obj" />
+      <change beforePath="$PROJECT_DIR$/model/striped/fat/too big/model_0.mtl" afterPath="$PROJECT_DIR$/model/striped/fat/too big/model_0.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/striped/fat/too big/skin_beige_new.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/fat/too big/skin_nudes.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/fat/too big/transparency.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/fat/too small/W_body_lingerie.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/fat/too small/W_face.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/fat/too small/W_leg_hand.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/fat/too small/eye_1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/fat/too small/eye_light.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/fat/too small/model.mtl" afterPath="$PROJECT_DIR$/model/striped/fat/too small/model.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/striped/fat/too small/model.obj" afterPath="$PROJECT_DIR$/model/striped/fat/too small/model.obj" />
+      <change beforePath="$PROJECT_DIR$/model/striped/fat/too small/model_0.mtl" afterPath="$PROJECT_DIR$/model/striped/fat/too small/model_0.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/striped/fat/too small/skin_beige_new.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/fat/too small/skin_nudes.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/fat/too small/transparency.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/med/on size/W_body_lingerie.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/med/on size/W_face.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/med/on size/W_leg_hand.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/med/on size/eye_1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/med/on size/eye_light.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/med/on size/model.mtl" afterPath="$PROJECT_DIR$/model/striped/med/on size/model.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/striped/med/on size/model.obj" afterPath="$PROJECT_DIR$/model/striped/med/on size/model.obj" />
+      <change beforePath="$PROJECT_DIR$/model/striped/med/on size/model_0.mtl" afterPath="$PROJECT_DIR$/model/striped/med/on size/model_0.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/striped/med/on size/skin_beige_new.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/med/on size/skin_nudes.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/med/on size/transparency.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/med/too big/W_body_lingerie.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/med/too big/W_face.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/med/too big/W_leg_hand.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/med/too big/eye_1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/med/too big/eye_light.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/med/too big/model.mtl" afterPath="$PROJECT_DIR$/model/striped/med/too big/model.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/striped/med/too big/model.obj" afterPath="$PROJECT_DIR$/model/striped/med/too big/model.obj" />
+      <change beforePath="$PROJECT_DIR$/model/striped/med/too big/model_0.mtl" afterPath="$PROJECT_DIR$/model/striped/med/too big/model_0.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/striped/med/too big/skin_beige_new.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/med/too big/skin_nudes.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/med/too big/transparency.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/med/too small/W_body_lingerie.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/med/too small/W_face.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/med/too small/W_leg_hand.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/med/too small/eye_1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/med/too small/eye_light.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/med/too small/model.mtl" afterPath="$PROJECT_DIR$/model/striped/med/too small/model.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/striped/med/too small/model.obj" afterPath="$PROJECT_DIR$/model/striped/med/too small/model.obj" />
+      <change beforePath="$PROJECT_DIR$/model/striped/med/too small/model_0.mtl" afterPath="$PROJECT_DIR$/model/striped/med/too small/model_0.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/striped/med/too small/skin_beige_new.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/med/too small/skin_nudes.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/med/too small/transparency.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/thin/on size/W_body_lingerie.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/thin/on size/W_face.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/thin/on size/W_leg_hand.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/thin/on size/eye_1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/thin/on size/eye_light.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/thin/on size/model.mtl" afterPath="$PROJECT_DIR$/model/striped/thin/on size/model.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/striped/thin/on size/model.obj" afterPath="$PROJECT_DIR$/model/striped/thin/on size/model.obj" />
+      <change beforePath="$PROJECT_DIR$/model/striped/thin/on size/model_0.mtl" afterPath="$PROJECT_DIR$/model/striped/thin/on size/model_0.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/striped/thin/on size/skin_beige_new.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/thin/on size/skin_nudes.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/thin/on size/transparency.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/thin/too big/W_body_lingerie.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/thin/too big/W_face.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/thin/too big/W_leg_hand.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/thin/too big/eye_1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/thin/too big/eye_light.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/thin/too big/model.mtl" afterPath="$PROJECT_DIR$/model/striped/thin/too big/model.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/striped/thin/too big/model.obj" afterPath="$PROJECT_DIR$/model/striped/thin/too big/model.obj" />
+      <change beforePath="$PROJECT_DIR$/model/striped/thin/too big/model_0.mtl" afterPath="$PROJECT_DIR$/model/striped/thin/too big/model_0.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/striped/thin/too big/skin_beige_new.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/thin/too big/skin_nudes.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/thin/too big/transparency.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/thin/too small/W_body_lingerie.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/thin/too small/W_face.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/thin/too small/W_leg_hand.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/thin/too small/eye_1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/thin/too small/eye_light.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/thin/too small/model.mtl" afterPath="$PROJECT_DIR$/model/striped/thin/too small/model.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/striped/thin/too small/model.obj" afterPath="$PROJECT_DIR$/model/striped/thin/too small/model.obj" />
+      <change beforePath="$PROJECT_DIR$/model/striped/thin/too small/model_0.mtl" afterPath="$PROJECT_DIR$/model/striped/thin/too small/model_0.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/striped/thin/too small/skin_beige_new.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/thin/too small/skin_nudes.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/striped/thin/too small/transparency.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/fat/on size/Denim_dark_1787085.jpg" afterPath="$PROJECT_DIR$/model/striped/fat/too small/Denim_dark_1142677_831813.jpg" />
+      <change beforePath="$PROJECT_DIR$/model/white/fat/on size/W_body_lingerie.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/fat/on size/W_face.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/fat/on size/W_leg_hand.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/fat/on size/eye_1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/fat/on size/eye_light.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/fat/on size/model.mtl" afterPath="$PROJECT_DIR$/model/white/fat/on size/model.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/white/fat/on size/model.obj" afterPath="$PROJECT_DIR$/model/white/fat/on size/model.obj" />
+      <change beforePath="$PROJECT_DIR$/model/white/fat/on size/model_0.mtl" afterPath="$PROJECT_DIR$/model/white/fat/on size/model_0.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/white/fat/on size/skin_beige_new.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/fat/on size/skin_nudes.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/fat/on size/transparency.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/fat/too big/Denim_dark_1787085.jpg" afterPath="$PROJECT_DIR$/model/striped/med/on size/Denim_dark_1142677_1109968.jpg" />
+      <change beforePath="$PROJECT_DIR$/model/white/fat/too big/W_body_lingerie.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/fat/too big/W_face.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/fat/too big/W_leg_hand.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/fat/too big/eye_1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/fat/too big/eye_light.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/fat/too big/model.mtl" afterPath="$PROJECT_DIR$/model/white/fat/too big/model.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/white/fat/too big/model.obj" afterPath="$PROJECT_DIR$/model/white/fat/too big/model.obj" />
+      <change beforePath="$PROJECT_DIR$/model/white/fat/too big/model_0.mtl" afterPath="$PROJECT_DIR$/model/white/fat/too big/model_0.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/white/fat/too big/skin_beige_new.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/fat/too big/skin_nudes.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/fat/too big/transparency.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/fat/too small/Denim_dark_1787085.jpg" afterPath="$PROJECT_DIR$/model/striped/med/too big/Denim_dark_1142677_1109968.jpg" />
+      <change beforePath="$PROJECT_DIR$/model/white/fat/too small/W_body_lingerie.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/fat/too small/W_face.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/fat/too small/W_leg_hand.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/fat/too small/eye_1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/fat/too small/eye_light.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/fat/too small/model.mtl" afterPath="$PROJECT_DIR$/model/white/fat/too small/model.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/white/fat/too small/model.obj" afterPath="$PROJECT_DIR$/model/white/fat/too small/model.obj" />
+      <change beforePath="$PROJECT_DIR$/model/white/fat/too small/model_0.mtl" afterPath="$PROJECT_DIR$/model/white/fat/too small/model_0.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/white/fat/too small/skin_beige_new.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/fat/too small/skin_nudes.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/fat/too small/transparency.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/med/on size/Denim_dark_1787085.jpg" afterPath="$PROJECT_DIR$/model/white/med/on size/Denim_dark_1787085_3153998.jpg" />
+      <change beforePath="$PROJECT_DIR$/model/white/med/on size/W_body_lingerie.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/med/on size/W_face.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/med/on size/W_leg_hand.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/med/on size/eye_1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/med/on size/eye_light.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/med/on size/model.mtl" afterPath="$PROJECT_DIR$/model/white/med/on size/model.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/white/med/on size/model.obj" afterPath="$PROJECT_DIR$/model/white/med/on size/model.obj" />
+      <change beforePath="$PROJECT_DIR$/model/white/med/on size/model_0.mtl" afterPath="$PROJECT_DIR$/model/white/med/on size/model_0.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/white/med/on size/skin_beige_new.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/med/on size/skin_nudes.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/med/on size/transparency.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/med/too big/Denim_dark_1787085.jpg" afterPath="$PROJECT_DIR$/model/white/med/too big/Denim_dark_1787085_3153998.jpg" />
+      <change beforePath="$PROJECT_DIR$/model/white/med/too big/W_body_lingerie.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/med/too big/W_face.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/med/too big/W_leg_hand.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/med/too big/eye_1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/med/too big/eye_light.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/med/too big/model.mtl" afterPath="$PROJECT_DIR$/model/white/med/too big/model.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/white/med/too big/model.obj" afterPath="$PROJECT_DIR$/model/white/med/too big/model.obj" />
+      <change beforePath="$PROJECT_DIR$/model/white/med/too big/model_0.mtl" afterPath="$PROJECT_DIR$/model/white/med/too big/model_0.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/white/med/too big/skin_beige_new.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/med/too big/skin_nudes.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/med/too big/transparency.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/med/too small/Denim_dark_1787085.jpg" afterPath="$PROJECT_DIR$/model/white/med/too small/Denim_dark_1787085_2152921.jpg" />
+      <change beforePath="$PROJECT_DIR$/model/white/med/too small/W_body_lingerie.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/med/too small/W_face.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/med/too small/W_leg_hand.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/med/too small/eye_1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/med/too small/eye_light.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/med/too small/model.mtl" afterPath="$PROJECT_DIR$/model/white/med/too small/model.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/white/med/too small/model.obj" afterPath="$PROJECT_DIR$/model/white/med/too small/model.obj" />
+      <change beforePath="$PROJECT_DIR$/model/white/med/too small/model_0.mtl" afterPath="$PROJECT_DIR$/model/white/med/too small/model_0.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/white/med/too small/skin_beige_new.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/med/too small/skin_nudes.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/med/too small/transparency.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/thin/on size/Denim_dark_1787085.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/thin/on size/W_body_lingerie.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/thin/on size/W_face.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/thin/on size/W_leg_hand.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/thin/on size/eye_1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/thin/on size/eye_light.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/thin/on size/model.mtl" afterPath="$PROJECT_DIR$/model/white/thin/on size/model.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/white/thin/on size/model.obj" afterPath="$PROJECT_DIR$/model/white/thin/on size/model.obj" />
+      <change beforePath="$PROJECT_DIR$/model/white/thin/on size/model_0.mtl" afterPath="$PROJECT_DIR$/model/white/thin/on size/model_0.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/white/thin/on size/skin_beige_new.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/thin/on size/skin_nudes.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/thin/on size/transparency.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/thin/too big/Denim_dark_1787085.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/thin/too big/W_body_lingerie.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/thin/too big/W_face.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/thin/too big/W_leg_hand.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/thin/too big/eye_1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/thin/too big/eye_light.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/thin/too big/model.mtl" afterPath="$PROJECT_DIR$/model/white/thin/too big/model.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/white/thin/too big/model.obj" afterPath="$PROJECT_DIR$/model/white/thin/too big/model.obj" />
+      <change beforePath="$PROJECT_DIR$/model/white/thin/too big/model_0.mtl" afterPath="$PROJECT_DIR$/model/white/thin/too big/model_0.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/white/thin/too big/skin_beige_new.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/thin/too big/skin_nudes.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/thin/too big/transparency.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/thin/too small/Denim_dark_1787085.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/thin/too small/W_body_lingerie.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/thin/too small/W_face.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/thin/too small/W_leg_hand.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/thin/too small/eye_1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/thin/too small/eye_light.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/thin/too small/model.mtl" afterPath="$PROJECT_DIR$/model/white/thin/too small/model.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/white/thin/too small/model.obj" afterPath="$PROJECT_DIR$/model/white/thin/too small/model.obj" />
+      <change beforePath="$PROJECT_DIR$/model/white/thin/too small/model_0.mtl" afterPath="$PROJECT_DIR$/model/white/thin/too small/model_0.mtl" />
+      <change beforePath="$PROJECT_DIR$/model/white/thin/too small/skin_beige_new.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/thin/too small/skin_nudes.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/model/white/thin/too small/transparency.png" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,8 +399,8 @@
       <file leaf-file-name="viewer.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/viewer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+            <state relative-caret-position="242">
+              <caret line="100" column="22" lean-forward="true" selection-start-line="100" selection-start-column="22" selection-end-line="100" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -48,7 +410,7 @@
         <entry file="file://D:/Proyek Virtual Dressing Room/js/viewer.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="177">
-              <caret line="110" column="72" lean-forward="true" selection-start-line="110" selection-start-column="49" selection-end-line="110" selection-end-column="72" />
+              <caret line="110" column="72" lean-forward="false" selection-start-line="110" selection-start-column="49" selection-end-line="110" selection-end-column="72" />
               <folding />
             </state>
           </provider>
@@ -58,7 +420,7 @@
         <entry file="file://$PROJECT_DIR$/js/controls/OrbitControls.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="177">
-              <caret line="46" column="76" lean-forward="false" selection-start-line="46" selection-start-column="76" selection-end-line="46" selection-end-column="76" />
+              <caret line="530" column="33" lean-forward="false" selection-start-line="530" selection-start-column="30" selection-end-line="530" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -78,7 +440,7 @@
         <entry file="file://$PROJECT_DIR$/../threejs/examples/webgl_loader_obj_mtl.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="146" column="12" lean-forward="true" selection-start-line="146" selection-start-column="12" selection-end-line="162" selection-end-column="13" />
+              <caret line="146" column="12" lean-forward="false" selection-start-line="146" selection-start-column="12" selection-end-line="162" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -106,9 +468,11 @@
       <find>dds</find>
       <find>render()</find>
       <find>control</find>
-      <find>animate()</find>
       <find>vector</find>
       <find>controls</find>
+      <find>animate()</find>
+      <find>mouse</find>
+      <find>key</find>
     </findStrings>
     <replaceStrings>
       <replace>col-4 input</replace>
@@ -229,12 +593,12 @@
       <workItem from="1521963262541" duration="929000" />
       <workItem from="1523208822210" duration="3685000" />
       <workItem from="1523212955740" duration="1770000" />
-      <workItem from="1523689336999" duration="4412000" />
+      <workItem from="1523689336999" duration="4914000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41973000" />
+    <option name="totallyTimeSpent" value="42475000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -493,15 +857,7 @@
     <entry file="file://$PROJECT_DIR$/../threejs/examples/webgl_loader_obj_mtl.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="146" column="12" lean-forward="true" selection-start-line="146" selection-start-column="12" selection-end-line="162" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/controls/OrbitControls.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="46" column="76" lean-forward="false" selection-start-line="46" selection-start-column="76" selection-end-line="46" selection-end-column="76" />
+          <caret line="146" column="12" lean-forward="false" selection-start-line="146" selection-start-column="12" selection-end-line="162" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -525,15 +881,23 @@
     <entry file="file://D:/Proyek Virtual Dressing Room/js/viewer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
-          <caret line="110" column="72" lean-forward="true" selection-start-line="110" selection-start-column="49" selection-end-line="110" selection-end-column="72" />
+          <caret line="110" column="72" lean-forward="false" selection-start-line="110" selection-start-column="49" selection-end-line="110" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/controls/OrbitControls.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="530" column="33" lean-forward="false" selection-start-line="530" selection-start-column="30" selection-end-line="530" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/viewer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        <state relative-caret-position="242">
+          <caret line="100" column="22" lean-forward="true" selection-start-line="100" selection-start-column="22" selection-end-line="100" selection-end-column="22" />
           <folding />
         </state>
       </provider>
