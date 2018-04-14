@@ -59,7 +59,7 @@ function loadOBJ(path){
 		objLoader.load(obj_file, function (object) {
 			object.name = 'model';
             object.position.y = - 75;
-            object.scale.set(0.075, 0.075, 0.075);
+            object.scale.set(0.1, 0.075, 0.095);
             scene.add( object );
 		}, onProgress, onError );
 	});
