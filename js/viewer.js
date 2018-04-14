@@ -15,6 +15,24 @@ function initViewport(){
 	scene.add( camera );
 	renderer = new THREE.WebGLRenderer();
 
+    // Load the background texture
+    var texture = THREE.ImageUtils.loadTexture( 'bgimage.jpg' );
+    var backgroundMesh = new THREE.Mesh(
+        new THREE.PlaneGeometry(2, 2, 0),
+        new THREE.MeshBasicMaterial({
+            map: texture
+        }));
+
+    backgroundMesh .material.depthTest = false;
+    backgroundMesh .material.depthWrite = false;
+
+    // Create your background scene
+    backgroundScene = new THREE.Scene();
+    backgroundCamera = new THREE.Camera();
+    backgroundScene .add(backgroundCamera );
+    backgroundScene .add(backgroundMesh );
+
+
     renderer.setSize(viewport.clientWidth, viewport.clientHeight);
     viewport.appendChild( renderer.domElement );
 }
@@ -105,7 +123,9 @@ function drawObject(){
 
 		controls.update();
 
-		renderer.render(scene, camera);
+        renderer.autoClear = false;
+        renderer.render(backgroundScene , backgroundCamera );
+        renderer.render(scene, camera);
 	};
 	animate();
 }
@@ -126,7 +146,10 @@ function animate() {
 
 function render() {
     camera.lookAt( scene.position );
-    renderer.render( scene, camera );
+
+    renderer.autoClear = false;
+    renderer.render(backgroundScene , backgroundCamera );
+    renderer.render(scene, camera);
 }
 
 initViewport();
