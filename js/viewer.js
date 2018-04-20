@@ -44,6 +44,7 @@ function loadOBJ(path){
 	mtlLoader.setPath(path);
 	mtlLoader.load('model.mtl', function(materials) {
 		materials.preload();
+		materials.setMaterialOptions({side: THREE.DoubleSide});
 		var objLoader = new THREE.OBJLoader();
 		objLoader.setMaterials(materials);
 		objLoader.setPath(path);
