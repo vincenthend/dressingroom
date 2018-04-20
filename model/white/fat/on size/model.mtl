@@ -1,211 +1,225 @@
 # MTL Exporter v1.0 by Seungwoo Oh at CLO - Virtual Fashion Inc.
-newmtl Material3889
-Ka 0.257132 0.257132 0.257132
-Kd 0.819608 0.819608 0.819608
-Ks 0.000000 0.000000 0.000000
-Ns 5.000000
-illum 2
-d 1.000000
-map_Ka Denim_dark_1787085.jpg
-map_Kd Denim_dark_1787085.jpg
-newmtl Material3895
-Ka 0.257132 0.257132 0.257132
-Kd 0.819608 0.819608 0.819608
-Ks 0.000000 0.000000 0.000000
-Ns 5.000000
-illum 2
-d 1.000000
-map_Ka Denim_dark_1787085.jpg
-map_Kd Denim_dark_1787085.jpg
-newmtl Material3916
-Ka 0.040600 0.040600 0.040600
-Kd 0.129412 0.129412 0.129412
-Ks 0.074510 0.074510 0.074510
-Ns 5.000000
-illum 2
-d 1.000000
-map_Ka FCL1-PSC002-00_SPECULAR_184628.jpg
-map_Kd FCL1-PSC002-00_SPECULAR_184628.jpg
-map_Bump FCL1-PSC002-00_NORMAL_184626.jpg
-map_Ks FCL1-PSC002-00_SPECULAR_184628.jpg
-newmtl Material3900
-Ka 0.257132 0.257132 0.257132
-Kd 0.819608 0.819608 0.819608
-Ks 0.000000 0.000000 0.000000
-Ns 5.000000
-illum 2
-d 1.000000
-map_Ka Denim_dark_1787085.jpg
-map_Kd Denim_dark_1787085.jpg
-newmtl Material3905
-Ka 0.257132 0.257132 0.257132
-Kd 0.819608 0.819608 0.819608
-Ks 0.000000 0.000000 0.000000
-Ns 5.000000
-illum 2
-d 1.000000
-map_Ka Denim_dark_1787085.jpg
-map_Kd Denim_dark_1787085.jpg
-newmtl Material3910
-Ka 0.257132 0.257132 0.257132
-Kd 0.819608 0.819608 0.819608
-Ks 0.000000 0.000000 0.000000
-Ns 5.000000
-illum 2
-d 1.000000
-map_Ka Jersey_white_121294.jpg
-map_Kd Jersey_white_121294.jpg
-newmtl Skirt_FRONT_3574
-Ka 0.257132 0.257132 0.257132
-Kd 0.819608 0.819608 0.819608
-Ks 0.000000 0.000000 0.000000
-Ns 5.000000
-illum 2
-d 1.000000
-newmtl Material3743
-Ka 0.257132 0.257132 0.257132
-Kd 0.800000 0.000000 0.000000
-Ks 0.000000 0.000000 0.000000
-Ns 5.000000
-illum 2
-d 1.000000
-newmtl Material3728
-Ka 0.257132 0.257132 0.257132
-Kd 0.745098 0.745098 0.745098
-Ks 0.000000 0.000000 0.000000
-Ns 5.000000
-illum 2
-d 1.000000
-map_Kd skin_nudes.jpg
-newmtl Material3745
-Ka 0.257132 0.257132 0.257132
-Kd 0.626000 0.406900 0.000000
-Ks 0.000000 0.000000 0.000000
-Ns 5.000000
-illum 2
-d 1.000000
-newmtl Material3747
-Ka 0.257132 0.257132 0.257132
-Kd 0.745098 0.745098 0.745098
-Ks 0.000000 0.000000 0.000000
-Ns 5.000000
-illum 2
-d 1.000000
-map_Kd skin_nudes.jpg
-newmtl Material3724
-Ka 0.257132 0.257132 0.257132
-Kd 0.800000 0.000000 0.000000
-Ks 0.000000 0.000000 0.000000
-Ns 5.000000
-illum 2
-d 1.000000
-newmtl Material3737
-Ka 0.257132 0.257132 0.257132
-Kd 0.745098 0.745098 0.745098
-Ks 0.000000 0.000000 0.000000
-Ns 5.000000
-illum 2
-d 1.000000
-map_Kd skin_beige_new.jpg
-newmtl Material3731
+newmtl Material1295478
 Ka 0.257132 0.257132 0.257132
 Kd 0.400000 0.400000 0.400000
 Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-map_d transparency.png
-newmtl Material3734
+map_d ../../../transparency.png
+newmtl Material1295501
 Ka 0.257132 0.257132 0.257132
-Kd 0.745098 0.745098 0.745098
+Kd 0.800000 0.000000 0.000000
 Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-map_Kd skin_beige_new.jpg
-newmtl Material3726
+newmtl Material1295490
 Ka 0.257132 0.257132 0.257132
 Kd 0.626000 0.406900 0.000000
 Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-newmtl Material3740
+newmtl Material1295503
 Ka 0.257132 0.257132 0.257132
 Kd 0.745098 0.745098 0.745098
 Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-map_Kd skin_nudes.jpg
-newmtl Material3672
+map_Kd ../../../skin_nudes.jpg
+newmtl Material1295481
 Ka 0.257132 0.257132 0.257132
 Kd 0.745098 0.745098 0.745098
 Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-map_Kd hair03_tr.png
-map_d hair03_tr.png
-newmtl Material3720
+map_Kd ../../../skin_beige_new.jpg
+newmtl Material1295484
 Ka 0.257132 0.257132 0.257132
 Kd 0.745098 0.745098 0.745098
 Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-map_Kd skin_nudes.jpg
-newmtl Material3685
+map_Kd ../../../skin_beige_new.jpg
+newmtl Material1295486
 Ka 0.257132 0.257132 0.257132
 Kd 0.745098 0.745098 0.745098
 Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-map_Kd eye_light.png
-map_d eye_light.png
-newmtl Material3681
+map_Kd ../../../skin_nudes.jpg
+newmtl Material1295493
+Ka 0.257132 0.257132 0.257132
+Kd 0.400000 0.400000 0.400000
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_d ../../../transparency.png
+newmtl Material1295489
+Ka 0.257132 0.257132 0.257132
+Kd 0.800000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+newmtl Material1295495
 Ka 0.257132 0.257132 0.257132
 Kd 0.745098 0.745098 0.745098
 Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-map_Kd eye_1.jpg
-newmtl Material3690
+map_Kd ../../../skin_beige_new.jpg
+newmtl Material1295497
 Ka 0.257132 0.257132 0.257132
 Kd 0.745098 0.745098 0.745098
 Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-map_Kd eye_1.jpg
-newmtl Material3693
+map_Kd ../../../skin_beige_new.jpg
+newmtl Material1295491
 Ka 0.257132 0.257132 0.257132
 Kd 0.745098 0.745098 0.745098
 Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-map_Kd eye_light.png
-map_d eye_light.png
-newmtl Material3697
+map_Kd ../../../skin_nudes.jpg
+newmtl Material1295499
 Ka 0.257132 0.257132 0.257132
 Kd 0.745098 0.745098 0.745098
 Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-map_Kd ../../../../../../W_body_lingerie.jpg
-newmtl Material3677
+map_Kd ../../../skin_nudes.jpg
+newmtl Material1295502
+Ka 0.257132 0.257132 0.257132
+Kd 0.626000 0.406900 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+newmtl Material1282681
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_Ka C:/Users/VincentH/AppData/Local/CLO/Marvelous Designer 7 Enterprise/7304/1372/Denim_dark_1787085.jpg
+map_Kd C:/Users/VincentH/AppData/Local/CLO/Marvelous Designer 7 Enterprise/7304/1372/Denim_dark_1787085.jpg
+newmtl Material1282692
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_Ka C:/Users/VincentH/AppData/Local/CLO/Marvelous Designer 7 Enterprise/7304/1372/Denim_dark_1787085.jpg
+map_Kd C:/Users/VincentH/AppData/Local/CLO/Marvelous Designer 7 Enterprise/7304/1372/Denim_dark_1787085.jpg
+newmtl Material1282687
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_Ka C:/Users/VincentH/AppData/Local/CLO/Marvelous Designer 7 Enterprise/7304/1372/Denim_dark_1787085.jpg
+map_Kd C:/Users/VincentH/AppData/Local/CLO/Marvelous Designer 7 Enterprise/7304/1372/Denim_dark_1787085.jpg
+newmtl Skirt_FRONT_1282367
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+newmtl Material1282702
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_Ka C:/Users/VincentH/AppData/Local/CLO/Marvelous Designer 7 Enterprise/7304/1372/Jersey_white_121294.jpg
+map_Kd C:/Users/VincentH/AppData/Local/CLO/Marvelous Designer 7 Enterprise/7304/1372/Jersey_white_121294.jpg
+newmtl Material1282708
+Ka 0.040600 0.040600 0.040600
+Kd 0.129412 0.129412 0.129412
+Ks 0.074510 0.074510 0.074510
+Ns 5.000000
+illum 2
+d 1.000000
+map_Ka C:/Users/VincentH/AppData/Local/CLO/Marvelous Designer 7 Enterprise/7304/1372/FCL1-PSC002-00_SPECULAR_184628.jpg
+map_Kd C:/Users/VincentH/AppData/Local/CLO/Marvelous Designer 7 Enterprise/7304/1372/FCL1-PSC002-00_SPECULAR_184628.jpg
+map_Bump C:/Users/VincentH/AppData/Local/CLO/Marvelous Designer 7 Enterprise/7304/1372/FCL1-PSC002-00_NORMAL_184626.jpg
+map_Ks C:/Users/VincentH/AppData/Local/CLO/Marvelous Designer 7 Enterprise/7304/1372/FCL1-PSC002-00_SPECULAR_184628.jpg
+newmtl Material1282697
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_Ka C:/Users/VincentH/AppData/Local/CLO/Marvelous Designer 7 Enterprise/7304/1372/Denim_dark_1787085.jpg
+map_Kd C:/Users/VincentH/AppData/Local/CLO/Marvelous Designer 7 Enterprise/7304/1372/Denim_dark_1787085.jpg
+newmtl Material1295524
 Ka 0.257132 0.257132 0.257132
 Kd 0.745098 0.745098 0.745098
 Ks 0.000000 0.000000 0.000000
 Ns 5.000000
 illum 2
 d 1.000000
-map_Kd hair02.jpg
-newmtl Material3701
+map_Kd ../../../eye_1.jpg
+newmtl Material1295505
+Ka 0.257132 0.257132 0.257132
+Kd 0.745098 0.745098 0.745098
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_Kd ../../../W_Hair_26984.png
+map_d ../../../W_Hair_26984.png
+newmtl Material1295513
+Ka 0.257132 0.257132 0.257132
+Kd 0.025600 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+newmtl Material1295509
+Ka 0.257132 0.257132 0.257132
+Kd 0.745098 0.745098 0.745098
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_Kd ../../../W_haircap_26979.png
+map_d ../../../W_haircap_26979.png
+newmtl Material1295515
+Ka 0.257132 0.257132 0.257132
+Kd 0.025600 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+newmtl Material1295520
+Ka 0.257132 0.257132 0.257132
+Kd 0.745098 0.745098 0.745098
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_Kd ../../../eye_light.png
+map_d ../../../eye_light.png
+newmtl Material1295532
 Ka 0.257132 0.257132 0.257132
 Kd 0.745098 0.745098 0.745098
 Ks 0.000000 0.000000 0.000000
@@ -213,7 +227,39 @@ Ns 5.000000
 illum 2
 d 1.000000
 map_Kd ../../../W_face.jpg
-newmtl Material3705
+newmtl Material1295517
+Ka 0.257132 0.257132 0.257132
+Kd 0.745098 0.745098 0.745098
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_Kd ../../../eye_1.jpg
+newmtl Material1295526
+Ka 0.257132 0.257132 0.257132
+Kd 0.745098 0.745098 0.745098
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_Kd ../../../eye_light.png
+map_d ../../../eye_light.png
+newmtl Material1295529
+Ka 0.257132 0.257132 0.257132
+Kd 0.745098 0.745098 0.745098
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_Kd ../../../W_body_lingerie.jpg
+newmtl Material1295516
+Ka 0.257132 0.257132 0.257132
+Kd 0.025600 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+newmtl Material1295535
 Ka 0.257132 0.257132 0.257132
 Kd 0.745098 0.745098 0.745098
 Ks 0.000000 0.000000 0.000000
@@ -221,52 +267,7 @@ Ns 5.000000
 illum 2
 d 1.000000
 map_Kd ../../../W_leg_hand.jpg
-newmtl Material3709
-Ka 0.257132 0.257132 0.257132
-Kd 0.400000 0.400000 0.400000
-Ks 0.000000 0.000000 0.000000
-Ns 5.000000
-illum 2
-d 1.000000
-map_d transparency.png
-newmtl Material3713
-Ka 0.257132 0.257132 0.257132
-Kd 0.745098 0.745098 0.745098
-Ks 0.000000 0.000000 0.000000
-Ns 5.000000
-illum 2
-d 1.000000
-map_Kd skin_beige_new.jpg
-newmtl Material3717
-Ka 0.257132 0.257132 0.257132
-Kd 0.745098 0.745098 0.745098
-Ks 0.000000 0.000000 0.000000
-Ns 5.000000
-illum 2
-d 1.000000
-map_Kd skin_beige_new.jpg
-newmtl Material3670
-Ka 0.257132 0.257132 0.257132
-Kd 0.025600 0.000000 0.000000
-Ks 0.000000 0.000000 0.000000
-Ns 5.000000
-illum 2
-d 1.000000
-newmtl Material3666
-Ka 0.257132 0.257132 0.257132
-Kd 0.025600 0.000000 0.000000
-Ks 0.000000 0.000000 0.000000
-Ns 5.000000
-illum 2
-d 1.000000
-newmtl Material3664
-Ka 0.257132 0.257132 0.257132
-Kd 0.025600 0.000000 0.000000
-Ks 0.000000 0.000000 0.000000
-Ns 5.000000
-illum 2
-d 1.000000
-newmtl Material3668
+newmtl Material1295514
 Ka 0.257132 0.257132 0.257132
 Kd 0.025600 0.000000 0.000000
 Ks 0.000000 0.000000 0.000000

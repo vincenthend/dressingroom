@@ -3,26 +3,35 @@ var scene, camera, renderer, controller;
 
 function initViewport(){
     var viewport = document.getElementById("viewport");
+    camera = new THREE.PerspectiveCamera( 45, window.innerWidth / window.innerHeight, 1, 2000 );
+    camera.position.z = 250;
+
     scene = new THREE.Scene();
-    //camera = new THREE.PerspectiveCamera( 75, viewport.clientWidth /viewport.clientHeight, 0.1, 1000 );
-	camera = new THREE.PerspectiveCamera( 75, window.innerWidth / window.innerHeight, 1, 5000 );
-	
-	//Set Camera starting position
-	
-	camera.rotation.x = -0.17908;
-	camera.rotation.y = 0.04418;
-	camera.rotation.z = 1.5;
-	camera.position.x = -500;
-	camera.position.y = 2000;
-	camera.position.z = 2000;
-	
-	
+
 	var ambientLight = new THREE.AmbientLight( 0xcccccc, 0.4 );
+    scene.add( ambientLight );
 	var pointLight = new THREE.PointLight( 0xffffff, 0.8 );
-	scene.add( ambientLight );
 	camera.add( pointLight );
 	scene.add( camera );
-    renderer = new THREE.WebGLRenderer();
+	renderer = new THREE.WebGLRenderer();
+
+    // Load the background texture
+    var texture = THREE.ImageUtils.loadTexture( 'bgimage.jpg' );
+    var backgroundMesh = new THREE.Mesh(
+        new THREE.PlaneGeometry(2, 2, 0),
+        new THREE.MeshBasicMaterial({
+            map: texture
+        }));
+
+    backgroundMesh .material.depthTest = false;
+    backgroundMesh .material.depthWrite = false;
+
+    // Create your background scene
+    backgroundScene = new THREE.Scene();
+    backgroundCamera = new THREE.Camera();
+    backgroundScene .add(backgroundCamera );
+    backgroundScene .add(backgroundMesh );
+
 
     renderer.setSize(viewport.clientWidth, viewport.clientHeight);
     viewport.appendChild( renderer.domElement );
@@ -33,36 +42,26 @@ function loadOBJ(path){
 	obj_file = 'model.obj';
 	
 	var onProgress = function ( xhr ) {
-					if ( xhr.lengthComputable ) {
-						var percentComplete = xhr.loaded / xhr.total * 100;
-						console.log( Math.round(percentComplete, 2) + '% downloaded' );
-					}
-				};
+		if ( xhr.lengthComputable ) {
+			var percentComplete = xhr.loaded / xhr.total * 100;
+			console.log( Math.round(percentComplete, 2) + '% downloaded' );
+		}
+	};
 	var onError = function ( xhr ) {};
 	
 	var mtlLoader = new THREE.MTLLoader();
 	mtlLoader.setPath(path);
-	mtlLoader.load('model.mtl', function(materials) {
+	mtlLoader.setMaterialOptions({side: THREE.DoubleSide});
+	mtlLoader.load(mat_file, function(materials) {
 		materials.preload();
-		materials.setMaterialOptions({side: THREE.DoubleSide});
 		var objLoader = new THREE.OBJLoader();
 		objLoader.setMaterials(materials);
 		objLoader.setPath(path);
 		objLoader.load(obj_file, function (object) {
-            object.rotation.x = -0.5;
-            object.rotation.y = -0.24;
-            object.rotation.z = -0.1;
-            object.position.x = 0;
-			object.position.y = 0;
-            object.position.z = 1500;
-			object.scale.x = 1.4;
-			object.scale.z = 1.4;
-			object.name = "model";
-			scene.add(object);
-            camera.lookAt(object.position);
-			//remove with 
-			//var obj = scene.getObjectByName('model');
-			//scene.remove(object)
+			object.name = 'model';
+            object.position.y = - 75;
+            object.scale.set(0.1, 0.075, 0.115);
+            scene.add( object );
 		}, onProgress, onError );
 	});
 }
@@ -115,15 +114,19 @@ function drawObject(){
 	path = "model" + "/" + clothtype + "/" + bodypath + "/" + fitpath + "/";
 
 	loadOBJ(path);
+
+
 	var controls = new THREE.OrbitControls(camera, renderer.domElement);
 	controls.update();
 
-	var animate = function () {
+    var animate = function () {
 		requestAnimationFrame(animate);
 
 		controls.update();
 
-		renderer.render(scene, camera);
+        renderer.autoClear = false;
+        renderer.render(backgroundScene , backgroundCamera );
+        renderer.render(scene, camera);
 	};
 	animate();
 }
@@ -135,6 +138,20 @@ function clearObject(){
 	}
 }
 
+function animate() {
+
+    requestAnimationFrame( animate );
+    render();
+
+}
+
+function render() {
+    camera.lookAt( scene.position );
+
+    renderer.autoClear = false;
+    renderer.render(backgroundScene , backgroundCamera );
+    renderer.render(scene, camera);
+}
 
 initViewport();
 var obj = drawObject();
