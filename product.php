@@ -91,6 +91,17 @@
                     }
                 ?>
             </p>
+            <p class="mt-2 h2 font-weight-bold">
+                <?php
+                    if ($_GET["id"] == 1) {
+                        echo 'Rp 199.000';
+                    } else if ($_GET["id"] == 2) {
+                        echo 'Rp 179.000';
+                    } else if ($_GET["id"] == 3) {
+                        echo 'Rp 210.000';
+                    }
+                ?>
+            </p>
             <p class="mt-4 font-weight-light">
                 <?php
                     if ($_GET["id"] == 1) {

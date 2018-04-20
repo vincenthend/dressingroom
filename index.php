@@ -89,7 +89,7 @@
                     <img class="card-img-top" src="img/1_sm.jpg" alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Red Stripe Shirt</h5>
-                        <p class="card-text">Rp XXXXX</p>
+                        <p class="card-text">Rp 199.000</p>
                     </div>
                 </a>
             </div>
@@ -98,7 +98,7 @@
                     <img class="card-img-top" src="img/2_sm.jpg" alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Flaminggo Summer Shirt</h5>
-                        <p class="card-text">Rp XXXXX</p>
+                        <p class="card-text">Rp 179.000</p>
                     </div>
                 </a>
             </div>
@@ -107,7 +107,7 @@
                     <img class="card-img-top" src="img/3_sm.jpg" alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">White Pajama Shirt</h5>
-                        <p class="card-text">Rp XXXXX</p>
+                        <p class="card-text">Rp 210.000</p>
                     </div>
                 </a>
             </div>
